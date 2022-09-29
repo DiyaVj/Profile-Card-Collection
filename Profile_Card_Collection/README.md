@@ -4,4 +4,4 @@ In this workshop, we will discuss *insert your topic*.
 
 | **Name**              | *Profile card link*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **Diya Vijay**       | *[My Profile Card](diyavj.github.io/Profile-Card/)*                                        |
+| **Diya Vijay**       | *[My Profile Card](https://diyavj.github.io/Profile-Card/)*                                        |
