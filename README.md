@@ -35,9 +35,14 @@ To begin, use [this template repo](https://github.com/DiyaVj/Profile-Card) to cr
 * Add your profile card link along with your name in the readme.md file.
 * Create a pull request with a title in the format "Profile_card - {Your Name}"
 
+***Remember to sync the repo before submitting the pull request.***
+
 Please refer to the [CONTRIBUTING.md](https://github.com/DiyaVj/Profile-Card-Collection/blob/main/CONTRIBUTING.md) file if you are unsure how to perform the actions listed above.
 
 
 <div align="center">
+  
+Kudos! Your contribution is greatly appreciated.
+  
 <img src="https://c.tenor.com/kEOz87vlud0AAAAC/minions-yahoo.gif" />
 </div>
