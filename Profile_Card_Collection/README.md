@@ -1,6 +1,5 @@
-## Contributors
+## Contributors Profile Card
 
-In this workshop, we will discuss *insert your topic*.
 
 | **Name**              | *Profile card link*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
