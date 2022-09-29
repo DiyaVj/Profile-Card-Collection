@@ -1,2 +1,1 @@
-How to contribute?
-A guide from scratch
+Guidelines coming soon...
