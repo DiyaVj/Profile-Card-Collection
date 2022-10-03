@@ -3,4 +3,4 @@
 
 | **Name**              | *Profile card link*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **Diya Vijay**       | *[My Profile Card](https://diyavj.github.io/Profile-Card/)*                                        |
+| **Dev Vijay**       | *[My Profile Card](https://devvj-1.github.io/My-profile-card/)*                                        |
