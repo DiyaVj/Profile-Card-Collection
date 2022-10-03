@@ -47,8 +47,8 @@ Go to the "Settings" on the right side. Then go to the "Pages" to host your webs
 
 ### Step 6: Do Contribution
 Now visit ```Profile-Card-Collection``` repository which you forked.
-* Go to the ```Profile_Card_Collection``` folder
-* Edit readme and add your copied website link along with your name 
+* Go to the ```Profile_Card_Collection``` folder.
+* Edit readme and add your copied website link along with your name.
 * To create a pull request, click on ```Compare and pull requests```. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 * Add appropriate title and description to your pull request explaining your changes and efforts done.
 * Click on ```Create Pull Request```.
