@@ -36,6 +36,7 @@ To begin, use [this template repo](https://github.com/DiyaVj/Profile-Card) to cr
 
 Please refer to the [CONTRIBUTING.md](https://github.com/DiyaVj/Profile-Card-Collection/blob/main/CONTRIBUTING.md) file if you are unsure how to perform the actions listed above.
 
+***Note: Feel free to add your already created profile card, if you have any***
 
 <div align="center">
   
