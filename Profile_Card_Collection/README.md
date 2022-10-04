@@ -10,5 +10,6 @@
 | **Akhil Jamwal**       | *[My Profile Card](https://akhilj321.github.io/profile-card/)*    |
 | **Dhruv Dugar**       | *[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)*  |
 | **Ram Samarth**       | *[My Profile Card](https://achiverram28.github.io/ProfileCard/)*    |
+| **Arun karthick N M**       | *[My Profile Card](https://arunkarthicknm.github.io/my-profile/)*    |
 
 
