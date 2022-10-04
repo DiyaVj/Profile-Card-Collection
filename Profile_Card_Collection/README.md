@@ -10,3 +10,4 @@
 | **Dhruv Dugar**       | *[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)*  |
 | **Ram Samarth**       | *[My Profile Card](https://achiverram28.github.io/ProfileCard/)*    |
 
+| **Devansh Choudhary**       | *[My Profile Card](https://devansh-1007.github.io/pcard/)*    |
