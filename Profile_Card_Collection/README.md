@@ -8,3 +8,5 @@
 | **Dhruv Dugar**       | *[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)*  |
 | **Mandela T**       | *[My Profile Card](https://mandelatuks.github.io/Profile-Card/)*      |
 | **Ram Samarth**       | *[My Profile Card](https://achiverram28.github.io/ProfileCard/)*    |
+| **Akhil Jamwal**       | *[My Profile Card](https://akhilj321.github.io/profile-card/)*    |
+
