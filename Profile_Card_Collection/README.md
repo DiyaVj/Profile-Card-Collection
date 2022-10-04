@@ -5,3 +5,4 @@
 | ----------------------------- | --------------------------------------------------------------------- |
 | **Dev Vijay**       | *[My Profile Card](https://devvj-1.github.io/My-profile-card/)*                                        |
 | **Pranjal Kumar**       | *[My Profile Card](https://linktr.ee/pranjalkumar)*                                        |
+| **Kalyani Kakade**       | *[My Profile Card](https://mysocialpage.netlify.app/)*   
