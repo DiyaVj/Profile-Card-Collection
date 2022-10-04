@@ -11,7 +11,7 @@
 | **Akhil Jamwal**       | *[My Profile Card](https://akhilj321.github.io/profile-card/)*    |
 | **Dhruv Dugar**       | *[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)*  |
 | **Ram Samarth**       | *[My Profile Card](https://achiverram28.github.io/ProfileCard/)*    |
-| **Draav Jain**       | *[My Profile Card](https://dj081.github.io/card/)*    |
+| **Draav Jain**       | *[My Profile Card](https://heartfelt-dango-6b418e.netlify.app/)*    |
 | **Arun karthick N M**       | *[My Profile Card](https://arunkarthicknm.github.io/my-profile/)*    |
 | **Neha**       | *[My Profile Card](https://inquisitiveme15.github.io/Profile-Card-hactoberfest22/)*  |
 
