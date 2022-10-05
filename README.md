@@ -45,11 +45,3 @@ Kudos! Your contribution is greatly appreciated.
 <img src="https://c.tenor.com/kEOz87vlud0AAAAC/minions-yahoo.gif" />
 </div>
 
-<h1 align=center> Applause to our contributors✨ </h1>
-<p align="center">
-  
-	
-<a href="https://github.com/DiyaVj/Profile-Card-Collection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DiyaVj/Profile-Card-Collection" />
-</a>
-</p>
