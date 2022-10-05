@@ -27,7 +27,8 @@
 | **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
 | **Ashish Khanagwal**          | [My Profile Card](https://ashish-khanagwal.github.io/profile-card.github.io/)       |
 | **Deepanshu Anand**           | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_               |
-| **Ashwin Telmore**            | _[My Profile Card](https://ashwintelmore.github.io/)_                               |
-| **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_                |
-
+| **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_ |
+| **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_               |
+| **Manish Kumar Gupta**        | _[My Profile Card](https://heismanish.github.io/profile-card.github.io/)_           |
+| **W3ssfs**           | _[My Profile Card](https://w3ssfs.github.io/profile_card-w3ssfs/)_               |
 | **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
