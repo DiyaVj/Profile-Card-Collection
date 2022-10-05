@@ -22,4 +22,5 @@
 | **Draav Jain**       | *[My Profile Card](https://heartfelt-dango-6b418e.netlify.app/)*    |
 | **Shailendra Singh**  | _[My Profile Card](https://shailendra1703.github.io/Profile-Card/)_                 |
 | **Oreoluwa Alaba**  | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_ |
-| **Akbar Anung Yudha Saputra**  | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 |
+| **Akbar Anung Yudha Saputra**  | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 
+| **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_                 
