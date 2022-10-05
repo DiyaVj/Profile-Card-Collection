@@ -12,6 +12,7 @@
 | **Ritik Jha**       | *[My Profile Card](https://profilecard17.netlify.app/)*    |
 | **Mandela T**       | *[My Profile Card](https://mandelatuks.github.io/Profile-Card/)*      |
 | **Kalyani Kakade**       | *[My Profile Card](https://mysocialpage.netlify.app/)* |
+| **Hassan Hanif**      | _[My Profile Card](https://hassancodess.carrd.co/)_                                 |
 | **Akhil Jamwal**       | *[My Profile Card](https://akhilj321.github.io/profile-card/)*    |
 | **Dhruv Dugar**       | *[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)*  |
 | **Ram Samarth**       | *[My Profile Card](https://achiverram28.github.io/ProfileCard/)*    |
