@@ -12,7 +12,7 @@
 | **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_                             |
 | **Mandela T**                 | _[My Profile Card](https://mandelatuks.github.io/Profile-Card/)_                    |
 | **Kalyani Kakade**            | _[My Profile Card](https://mysocialpage.netlify.app/)_                              |
-| **Saransh Sinha**  | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
+| **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
 | **Hassan Hanif**              | _[My Profile Card](https://hassancodess.carrd.co/)_                                 |
 | **Akhil Jamwal**              | _[My Profile Card](https://akhilj321.github.io/profile-card/)_                      |
 | **Dhruv Dugar**               | _[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)_                   |
@@ -31,4 +31,4 @@
 | **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_               |
 | **Manish Kumar Gupta**        | _[My Profile Card](https://heismanish.github.io/profile-card.github.io/)_           |
 | **W3ssfs**           | _[My Profile Card](https://w3ssfs.github.io/profile_card-w3ssfs/)_               |
-
+| **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
