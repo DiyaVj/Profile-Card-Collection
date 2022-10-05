@@ -36,3 +36,5 @@
 | **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
 | **Jonathan Stallard** | _[My Profile Card](https://stallardjw.github.io/Profile-Card/)_ |
 | **Saurav Kumar Jha**          | _[My Profile Card](https://saurav50.github.io/Profile-card/)_                       |
+| **Juli Cheng**          | _[My Profile Card](https://starlit-narwhal-827998.netlify.app/)_                       |
+
