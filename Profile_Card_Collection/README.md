@@ -29,4 +29,6 @@
 | **Deepanshu Anand**           | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_               |
 | **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_ |
 | **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_               |
+| **Sashikanta Mohanty**  | _[My Profile Card](https://profile-card-seven-self.vercel.app/)_                       |
+
 
