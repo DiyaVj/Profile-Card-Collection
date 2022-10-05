@@ -36,7 +36,7 @@ To begin, use [this template repo](https://github.com/DiyaVj/Profile-Card) to cr
 
 Please refer to the [CONTRIBUTING.md](https://github.com/DiyaVj/Profile-Card-Collection/blob/main/CONTRIBUTING.md) file if you are unsure how to perform the actions listed above.
 
-***Note: Feel free to add your already created profile card, if you have any***
+***Note: QUANTITY IS FUN, QUALITY IS KEY, We look forward to PRs that add value to open source. Profile card boost your online presence. It is helpful for students, working professionals, entrepreneurs and public officials for their personal branding. This repository is not only about the collection of professional profile cards but also helps one (who doesn't have any profile card) to create their profile card and helps them to empower their personal and professional growth.***
 
 <div align="center">
   
