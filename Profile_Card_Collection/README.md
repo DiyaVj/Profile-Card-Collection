@@ -7,6 +7,7 @@
 | **Wojciech Szade**       | *[My Profile Card](https://wojciechszade.github.io/Profile-card/)*    |
 | **Sarthak Sachdeva**  | _[My Profile Card](https://portfolio-sarthakk24.vercel.app/)_                       |
 | **Dev Vijay**       | *[My Profile Card](https://devvj-1.github.io/My-profile-card/)*  |
+| **Adiansyah Dwiki**       | *[My Profile Card](https://adiansyah-dwiki.netlify.app/)*    |
 | **Pranjal Kumar**       | *[My Profile Card](https://linktr.ee/pranjalkumar)*  |
 | **Ritik Jha**       | *[My Profile Card](https://profilecard17.netlify.app/)*    |
 | **Mandela T**       | *[My Profile Card](https://mandelatuks.github.io/Profile-Card/)*      |
