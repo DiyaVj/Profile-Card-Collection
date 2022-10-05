@@ -49,6 +49,7 @@ Go to the "Settings" on the right side. Then go to the "Pages" to host your webs
 Now visit ```Profile-Card-Collection``` repository which you forked.
 * Go to the ```Profile_Card_Collection``` folder
 * Edit readme and add your copied website link along with your name 
+*  ```Don't forget to add your code files inside "Code" folder. Create folder after your name and put your code files inside that folder.(As I found, they(Hacktoberfest) are verifying the code in the PR so I recommend that you add your code to a "code folder" to avoid any consequences)```
 * To create a pull request, click on ```Compare and pull requests```. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 * Add appropriate title and description to your pull request explaining your changes and efforts done.
 * Click on ```Create Pull Request```.
