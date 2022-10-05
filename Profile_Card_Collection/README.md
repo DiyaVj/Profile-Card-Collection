@@ -6,6 +6,7 @@
 | **Wojciech Szade**       | *[My Profile Card](https://wojciechszade.github.io/Profile-card/)*    |
 | **Dev Vijay**       | *[My Profile Card](https://devvj-1.github.io/My-profile-card/)*  |
 | **Pranjal Kumar**       | *[My Profile Card](https://linktr.ee/pranjalkumar)*  |
+| **Ritik Jha**       | *[My Profile Card](https://profilecard17.netlify.app/)*    |
 | **Mandela T**       | *[My Profile Card](https://mandelatuks.github.io/Profile-Card/)*      |
 | **Kalyani Kakade**       | *[My Profile Card](https://mysocialpage.netlify.app/)* |
 | **Akhil Jamwal**       | *[My Profile Card](https://akhilj321.github.io/profile-card/)*    |
