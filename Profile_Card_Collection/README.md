@@ -29,4 +29,4 @@
 | **Deepanshu Anand**           | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_               |
 | **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_ |
 | **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_               |
-
+| **Manish Kumar Gupta**        | _[My Profile Card](https://heismanish.github.io/profile-card.github.io/)_           |
