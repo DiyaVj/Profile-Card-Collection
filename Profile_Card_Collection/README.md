@@ -24,3 +24,5 @@
 | **Oreoluwa Alaba**  | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_ |
 | **Akbar Anung Yudha Saputra**  | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 |
 | **Deepanshu Anand**  | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_ |
+| **Saransh Sinha**  | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
+
