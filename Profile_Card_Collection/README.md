@@ -18,3 +18,4 @@
 | **Abhinav Anand**       | *[My Profile Card](http://abhiportyes.surge.sh/)*  |
 | **Draav Jain**       | *[My Profile Card](https://heartfelt-dango-6b418e.netlify.app/)*    |
 | **Shailendra Singh**  | _[My Profile Card](https://shailendra1703.github.io/Profile-Card/)_                 |
+| **Oreoluwa Alaba**  | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_ |
