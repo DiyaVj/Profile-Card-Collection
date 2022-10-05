@@ -23,3 +23,4 @@
 | **Shailendra Singh**  | _[My Profile Card](https://shailendra1703.github.io/Profile-Card/)_                 |
 | **Oreoluwa Alaba**  | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_ |
 | **Akbar Anung Yudha Saputra**  | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 |
+| **Kush Munot**  | _[My Profile Card](https://csb-4oro5.netlify.app/)_
