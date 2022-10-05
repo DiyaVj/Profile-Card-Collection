@@ -5,6 +5,7 @@
 | **Jasmine Vo**                | *[My Profile Card](https://jasminepvo.github.io/Profile-Card/)*       |
 | **Devansh Choudhary**       | *[My Profile Card](https://devansh-1007.github.io/pcard/)*    |
 | **Wojciech Szade**       | *[My Profile Card](https://wojciechszade.github.io/Profile-card/)*    |
+| **Sarthak Sachdeva**  | _[My Profile Card](https://portfolio-sarthakk24.vercel.app/)_                       |
 | **Dev Vijay**       | *[My Profile Card](https://devvj-1.github.io/My-profile-card/)*  |
 | **Pranjal Kumar**       | *[My Profile Card](https://linktr.ee/pranjalkumar)*  |
 | **Ritik Jha**       | *[My Profile Card](https://profilecard17.netlify.app/)*    |
