@@ -27,3 +27,4 @@
 | **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
 | **Ashish Khanagwal**          | [My Profile Card](https://ashish-khanagwal.github.io/profile-card.github.io/)       |
 | **Deepanshu Anand**           | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_               |
+|  **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_ |
