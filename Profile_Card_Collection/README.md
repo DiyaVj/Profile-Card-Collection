@@ -23,9 +23,15 @@
 | **Shailendra Singh**  | _[My Profile Card](https://shailendra1703.github.io/Profile-Card/)_                 |
 | **Oreoluwa Alaba**  | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_ |
 | **Akbar Anung Yudha Saputra**  | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 |
+| **Saransh Dubey** | _[My Profile Card](https://portfolio-saransh14.vercel.app/)_                 |
 | **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
 | **Ashish Khanagwal**          | [My Profile Card](https://ashish-khanagwal.github.io/profile-card.github.io/)       |
 | **Deepanshu Anand**           | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_               |
 | **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_ |
 | **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_               |
-
+| **Sashikanta Mohanty**  | _[My Profile Card](https://profile-card-seven-self.vercel.app/)_                       |
+| **Manish Kumar Gupta**        | _[My Profile Card](https://heismanish.github.io/profile-card.github.io/)_           |
+| **W3ssfs**           | _[My Profile Card](https://w3ssfs.github.io/profile_card-w3ssfs/)_               |
+| **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
+| **Jonathan Stallard** | _[My Profile Card](https://stallardjw.github.io/Profile-Card/)_ |
+| **Saurav Kumar Jha**          | _[My Profile Card](https://saurav50.github.io/Profile-card/)_                       |
