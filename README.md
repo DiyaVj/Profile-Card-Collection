@@ -30,6 +30,7 @@ To begin, use [this template repo](https://github.com/DiyaVj/Profile-Card) to cr
 * Fork this repo
 * Go to "Profile_Card_Collection" folder
 * Add your profile card link along with your name in the readme.md file.
+* Go to the "Code" folder, inside that create a folder with your name and put your code files inside that folder.
 * Create a pull request with a title in the format "Profile_card - {Your Name}"
 
 ***Remember to sync the repo before submitting the pull request.***
