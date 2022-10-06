@@ -9,7 +9,8 @@
 | **Dev Vijay**                 | _[My Profile Card](https://devvj-1.github.io/My-profile-card/)_                     |
 | **Adiansyah Dwiki**           | _[My Profile Card](https://adiansyah-dwiki.netlify.app/)_                           |
 | **Pranjal Kumar**             | _[My Profile Card](https://linktr.ee/pranjalkumar)_                                 |
-| **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_                             |
+| **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_   
+| **Kshitij Singh**             | _[My Profile Card](https://kshitij321.github.io/portfoliocard.github.io/profilecard.html)_ |
 | **Mandela T**                 | _[My Profile Card](https://mandelatuks.github.io/Profile-Card/)_                    |
 | **Kalyani Kakade**            | _[My Profile Card](https://mysocialpage.netlify.app/)_                              |
 | **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
