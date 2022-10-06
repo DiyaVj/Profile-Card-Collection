@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    width: 100vw;
+    min-height: 100vh;
+    background: url("./Images/download.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: #fff;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  .card {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    padding: 29px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    min-height: 550px;
+    max-width: 500px;
+  }
+  .image img {
+    width: 180px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 10px 19px 29px 19px;
+    box-shadow: 0 0 28px rgba(0, 0, 0, 0.164);
+  }
+  .para h2{
+    text-align: center;
+    background: linear-gradient(rgba(99, 99, 253, 0.829),pink);
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-shadow: 1px 1px 2px rgb(253, 63, 95);
+  }
+  .para h3{
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(39, 29, 167);
+  }
+  .para p{
+    flex-direction: row;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 251);
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 2px rgb(58, 16, 23);
+  }
+  .fa:hover {
+    opacity: 0.7;
+    background: rgb(186, 105, 202);
+  }
+  
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55acee;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #d30bb1;
+    color: white;
+  }
+  .socialMedia{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  .socialMedia .fa {
+    width: 60px;
+    height: 60px;
+    flex-direction: column;
+    font-size: x-large;
+    color: rgb(164, 199, 199);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 100px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    transition: background 0.5s;
+  }
+  
