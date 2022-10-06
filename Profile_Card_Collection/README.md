@@ -40,9 +40,7 @@
 | **Ashmit JaiSarita Gupta** | _[My Profile Card](https://devilkiller-ag.github.io/Profile-Card/)_ |
 | **Juli Cheng**          | _[My Profile Card](https://starlit-narwhal-827998.netlify.app/)_                       |
 | **Raunak Kumar Gupta** | _[My Profile Card](https://sparkling-clafoutis-af7317.netlify.app/)_ |
-<<<<<<< HEAD
-| **Patryk Skonieczny** | _[My Profile Card](https://https://bmalvo.github.io/ProfileCard/)_ |
-
-=======
+| **Patryk Skonieczny** | _[My Profile Card](https://bmalvo.github.io/ProfileCard/)_ |
 | **Muskan Ali Qureshi**        | _[My Profile Card](https://muskan467.github.io/Profile-card/)_                      |
->>>>>>> 1bc37b6418e362c2dcce25abfdfc2c17749bf505
+| **John Marcial**                | _[My Profile Card](https://john121904.github.io/Profile-Card/)_                      |
+| **Anamika Shukla**       | _[My Profile Card](https://namika0305.github.io/Profile-card/)_        |
