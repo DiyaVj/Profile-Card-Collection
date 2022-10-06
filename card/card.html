@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title>Document</title>
+    <style>
+        body {
+            height: auto;
+            width: auto;
+            background: url(https://png.pngtree.com/background/20210717/original/pngtree-professional-blue-hexagon-tehcnology-background-for-business-picture-image_1416228.jpg);
+            background-attachment: fixed;
+            /* background-repeat: no-repeat; */
+        }
+
+        .card {
+            justify-content: center;
+            display:block;
+            position: absolute;
+            height: 350px;
+            width: 300px;
+            margin-top: 150px;
+            margin-left: 41%;
+            background-color: rgba(7, 7, 29, 0.55);
+            border-radius: 20px;
+            border: 2px solid silver;
+            box-shadow: 10px 10px 10px 10px rgb(3, 3, 63);
+        }
+
+        .card div{
+            display: flex;
+            width: 200px;
+            margin-right: 41%;
+            font-size: small;
+        }
+
+        /* .card div a i{
+            background-color: antiquewhite;
+        } */
+
+        img {
+            height: 150px;
+            width: 150px;
+            margin: 40px 80px auto;
+            border-radius: 100px;
+            border: 2px solid silver;
+        }
+
+        p {
+            color: white;
+            font-family: cursive;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        .link {
+            text-decoration: none;
+            /* margin: 50px; */
+            padding: 39px;
+            width: 50px;
+            height: 50px;
+            display: inline-block;
+            /* justify-content: center; */
+            align-items: center;
+            border-radius: 20px;
+            position: relative;
+            transition: 0.5s;
+        }
+
+        .link:hover {
+            transform: rotate(45deg);
+            
+            
+        }
+
+        .link::before {
+            content: "";
+            position: absolute;
+            height: 50px;
+            width: 50px;
+            opacity: 0;
+            background: #030303;
+            border-radius: 10px;
+            transition: opacity (0.2s);
+        }
+
+        .link:hover::before {
+            opacity: 0.4s;
+            transform: translate(-4px, -4px);
+            filter: blur(10px);
+        }
+
+        .link:nth-child(1)::before {
+            background: #141414;
+            color: beige;
+        }
+
+        .link:nth-child(2)::before {
+            background: rgb(7, 7, 7)
+        }
+
+        .link:nth-child(3)::before {
+            background: #0f0f0f;
+        }
+
+        .link i {
+            font-size: 1.7em;
+            transition: all 0.4s;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card"><img src="card.jpg" alt="">
+        <p> frontend designer||<br>html,css,js,python</p>
+        <div>
+            <a href="#" class="link">
+                <i class="fa-brands fa-instagram" style="color: white; background-color: black;"></i>
+            </a>
+            <a href="#" class="link">
+                <i class="fa-brands fa-linkedin" style="color: white;  background-color: black;"></i>
+            </a>
+            <a href="#" class="link">
+                <i class='fas fa-thumbs-up' style="color: white;"></i>
+            </a>
+            
+        </div>
+        
+
+    </div>
+
+</body>
+
+</html>
