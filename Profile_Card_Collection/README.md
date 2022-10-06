@@ -2,6 +2,7 @@
 
 | **Name**                      | _Profile card link_                                                                 |
 | ----------------------------- | ----------------------------------------------------------------------------------- |
+| **Kevin Cao**                 | _[My Profile Card](https://www.kevincao.xyz/profile-card/)_                         |
 | **Jasmine Vo**                | _[My Profile Card](https://jasminepvo.github.io/Profile-Card/)_                     |
 | **Devansh Choudhary**         | _[My Profile Card](https://devansh-1007.github.io/pcard/)_                          |
 | **Wojciech Szade**            | _[My Profile Card](https://wojciechszade.github.io/Profile-card/)_                  |
