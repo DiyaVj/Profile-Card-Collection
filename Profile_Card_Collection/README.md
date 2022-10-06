@@ -18,9 +18,21 @@
 | **Dhruv Dugar**       | *[My Profile Card](https://profile-card-dhruv-dugar.vercel.app/)*  |
 | **Ram Samarth**       | *[My Profile Card](https://achiverram28.github.io/ProfileCard/)*    |
 | **Arun karthick N M**       | *[My Profile Card](https://arunkarthicknm.github.io/my-profile/)*    |
-| **Neha**       | *[My Profile Card](https://inquisitiveme15.github.io/Profile-Card-hactoberfest22/)*  |
+| **Neha**          | *[My Profile Card](https://inquisitiveme15.github.io/Profile-Card-hactoberfest22/)*  |
 | **Abhinav Anand**       | *[My Profile Card](http://abhiportyes.surge.sh/)*  |
 | **Draav Jain**       | *[My Profile Card](https://heartfelt-dango-6b418e.netlify.app/)*    |
 | **Shailendra Singh**  | _[My Profile Card](https://shailendra1703.github.io/Profile-Card/)_                 |
-| **Oreoluwa Alaba**  | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_ |
+| **Oreoluwa Alaba**  | *[My Profile Card](https://sandiego2049.github.io/profile-card/)* |
 | **Akbar Anung Yudha Saputra**  | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 |
+| **Saransh Dubey** | _[My Profile Card](https://portfolio-saransh14.vercel.app/)_                 |
+| **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
+| **Ashish Khanagwal**          | [My Profile Card](https://ashish-khanagwal.github.io/profile-card.github.io/)       |
+| **Deepanshu Anand**           | _[My Profile Card](https://deepanshu0810.github.io/my-profile-card/)_               |
+| **Ashwin Telmore**  | _[My Profile Card](https://ashwintelmore.github.io/)_ |
+| **Paramhans Singh**           | _[My Profile Card](https://paramhans-singh.github.io/Profile-Card/)_               |
+| **Sashikanta Mohanty**  | _[My Profile Card](https://profile-card-seven-self.vercel.app/)_                       |
+| **Manish Kumar Gupta**        | _[My Profile Card](https://heismanish.github.io/profile-card.github.io/)_           |
+| **W3ssfs**           | _[My Profile Card](https://w3ssfs.github.io/profile_card-w3ssfs/)_               |
+| **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
+| **Jonathan Stallard** | _[My Profile Card](https://stallardjw.github.io/Profile-Card/)_ |
+| **Saurav Kumar Jha**          | _[My Profile Card](https://saurav50.github.io/Profile-card/)_                       |
