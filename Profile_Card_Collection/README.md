@@ -42,3 +42,5 @@
 | **Raunak Kumar Gupta** | _[My Profile Card](https://sparkling-clafoutis-af7317.netlify.app/)_ |
 | **Muskan Ali Qureshi**        | _[My Profile Card](https://muskan467.github.io/Profile-card/)_                      |
 | **John Marcial**                | _[My Profile Card](https://john121904.github.io/Profile-Card/)_                      |
+| **Anamika Shukla**       | _[My Profile Card](https://namika0305.github.io/Profile-card/)_        |
+
