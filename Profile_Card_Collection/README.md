@@ -39,3 +39,5 @@
 | **Saurav Kumar Jha**          | _[My Profile Card](https://saurav50.github.io/Profile-card/)_                       |
 | **Juli Cheng**          | _[My Profile Card](https://starlit-narwhal-827998.netlify.app/)_                       |
 | **Raunak Kumar Gupta** | _[My Profile Card](https://sparkling-clafoutis-af7317.netlify.app/)_ |
+| **Patryk Skonieczny** | _[My Profile Card](https://https://bmalvo.github.io/ProfileCard/)_ |
+
