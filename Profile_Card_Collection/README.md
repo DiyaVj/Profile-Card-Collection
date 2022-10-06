@@ -9,7 +9,8 @@
 | **Dev Vijay**                 | _[My Profile Card](https://devvj-1.github.io/My-profile-card/)_                     |
 | **Adiansyah Dwiki**           | _[My Profile Card](https://adiansyah-dwiki.netlify.app/)_                           |
 | **Pranjal Kumar**             | _[My Profile Card](https://linktr.ee/pranjalkumar)_                                 |
-| **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_                             |
+| **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_   
+| **Kshitij Singh**             | _[My Profile Card](https://kshitij321.github.io/portfoliocard.github.io/profilecard.html)_ |
 | **Mandela T**                 | _[My Profile Card](https://mandelatuks.github.io/Profile-Card/)_                    |
 | **Kalyani Kakade**            | _[My Profile Card](https://mysocialpage.netlify.app/)_                              |
 | **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
@@ -36,4 +37,7 @@
 | **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
 | **Jonathan Stallard** | _[My Profile Card](https://stallardjw.github.io/Profile-Card/)_ |
 | **Saurav Kumar Jha**          | _[My Profile Card](https://saurav50.github.io/Profile-card/)_                       |
-| **John Marcial**              | _[My Profile Card](https://john121904.github.io/Profile-Card-Collection/)_          |
+| **Ashmit JaiSarita Gupta** | _[My Profile Card](https://devilkiller-ag.github.io/Profile-Card/)_ |
+| **Juli Cheng**          | _[My Profile Card](https://starlit-narwhal-827998.netlify.app/)_                       |
+| **Raunak Kumar Gupta** | _[My Profile Card](https://sparkling-clafoutis-af7317.netlify.app/)_ |
+| **Muskan Ali Qureshi**        | _[My Profile Card](https://muskan467.github.io/Profile-card/)_                      |
