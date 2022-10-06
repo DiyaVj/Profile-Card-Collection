@@ -10,7 +10,7 @@
 | **Adiansyah Dwiki**       | *[My Profile Card](https://adiansyah-dwiki.netlify.app/)*    |
 | **Pranjal Kumar**       | *[My Profile Card](https://linktr.ee/pranjalkumar)*  |
 | **Ritik Jha**       | *[My Profile Card](https://profilecard17.netlify.app/)*    |
-| **Abhika Mittal**    |*[My Profile Card](https://github.com/Abhika3021/Profile-Card)*   |   
+| **Abhika Mittal**    |*[My Profile Card](https://abhika3021.github.io/Profile-Card/)*   |   
 | **Mandela T**       | *[My Profile Card](https://mandelatuks.github.io/Profile-Card/)*      |
 | **Kalyani Kakade**       | *[My Profile Card](https://mysocialpage.netlify.app/)* |
 | **Hassan Hanif**      | _[My Profile Card](https://hassancodess.carrd.co/)_                                 |
