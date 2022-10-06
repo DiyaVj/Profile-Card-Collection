@@ -36,3 +36,4 @@
 | **Mehul Kumar** | _[My Profile Card](https://profile-card-2r1rnnrbw-mehul2711.vercel.app/)_ |
 | **Jonathan Stallard** | _[My Profile Card](https://stallardjw.github.io/Profile-Card/)_ |
 | **Saurav Kumar Jha**          | _[My Profile Card](https://saurav50.github.io/Profile-card/)_                       |
+| **Ashmit JaiSarita Gupta** | _[My Profile Card](https://devilkiller-ag.github.io/Profile-Card/)_ |
