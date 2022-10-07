@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/f048412f00.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="wrapper">
+            <a href="#">
+                <img src="./images/Profile Photo.jpg" alt="">
+            </a>
+            <div class="title">Abhika Mittal</div>
+            <div class="Place">Ghaizabad, U.P.</div>
+        </div>
+        <div class="content">
+            <p>MCA, Last year Student <br>
+                Front-end Developer</p>
+            <div class="buttons">
+                <div class="btn">
+                    <button><a href="tel: +91 8791220355">
+                        Contact Me
+                    </a></button>
+                </div>
+                <div class="btn">
+                    <button><a href="https://drive.google.com/file/d/1YT2e0mtMaMti9tkFO1bKE63uWYjTRWbS/view?usp=drivesdk" target="_blank">
+                        Hire Me
+                    </a></button>
+                </div>
+            </div>
+        </div>
+        <div class="icons">
+            <li><a href="https://www.linkedin.com/in/abhika-mittal-3b82891a1" target="_blank">
+                <span>
+                <i class="fa-brands fa-linkedin-in"></i>
+                </span>
+                </a></li>
+            <li><a href="https://github.com/Abhika3021" target="_blank">
+                    <span class="fab fa-github"></span>
+                </a></li>
+            <li><a href="https://instagram.com/a.b.h.i.k.a_30?igshid=YmMyMTA2M2Y=" target="_blank">
+                    <span class="fab fa-instagram"></span>
+                </a></li>
+        </div>
+    </div>
+
+    <script>
+        const img = document.querySelector("img");
+        img.onclick = function(){
+            this.classList.toggle("active");
+        }
+    </script>
+
+</body>
+
+</html>
