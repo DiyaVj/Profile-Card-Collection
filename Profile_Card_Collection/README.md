@@ -40,3 +40,4 @@
 | **Ashmit JaiSarita Gupta** | _[My Profile Card](https://devilkiller-ag.github.io/Profile-Card/)_ |
 | **Juli Cheng**          | _[My Profile Card](https://starlit-narwhal-827998.netlify.app/)_                       |
 | **Raunak Kumar Gupta** | _[My Profile Card](https://sparkling-clafoutis-af7317.netlify.app/)_ |
+| **Tejesh Annavarapu** | _[My Profile Card](https://inquisitive-wisp-197149.netlify.app/)_ |
