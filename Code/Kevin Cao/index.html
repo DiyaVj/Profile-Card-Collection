@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Kevin Cao's Profile Card</title>
+  <meta name="author" content="Kevin Cao">
+  <meta name="description" content="Everyone seems to have a profile card, so this is mine.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/global.css">
+  <link rel="stylesheet" href="/css/pygment.css">
+  
+<style>
+:root {
+  --blob-size: 50vmax;
+}
+
+body {
+  max-width: initial;
+  margin: initial;
+  padding: initial;
+}
+
+main {
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 95vh;
+  padding: 0 1em;
+}
+
+.profile-card {
+  background: white;
+  padding: 1em;
+  border-radius: 1em;
+  border: 2px solid black;
+  box-shadow: 5px 5px;
+}
+
+.name {
+  margin-top: 0;
+}
+
+.blob {
+  border-radius: 100%;
+  width: var(--blob-size);
+  height: var(--blob-size);
+  position: fixed;
+  z-index: -1;
+  border: 2px solid black;
+}
+
+.bottom-right {
+  bottom: calc(var(--blob-size) / -2);
+  right: calc(var(--blob-size) / -2);
+}
+
+.top-left {
+  top: calc(var(--blob-size) / -2);
+  left: calc(var(--blob-size) / -2);
+}
+
+.pink {
+  background: pink;
+}
+
+.blue {
+  background: lightblue;
+}
+</style>
+
+</head>
+<body>
+  
+  <main>
+    
+<div class="blue blob top-left"></div>
+<div class="profile-card">
+  <h2 class="name">Kevin Cao</h2>
+  <p>I write scripts and have a website.</p>
+  <div>
+    <a href="mailto:&#119;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;&#64;&#107;&#101;&#118;&#105;&#110;&#99;&#97;&#111;&#46;&#120;&#121;&#122;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNLjAyNiAyNGwxMS45NzQtMTEuNjA3IDExLjk3NCAxMS42MDdoLTIzLjk0OHptMTEuOTY0LTIzLjk2MWwtMTEuOTkgOC43MjV2MTIuNDc2bDcuMzUyLTcuMTI3LTUuNjUzLTQuMTEzIDEwLjI5MS03LjQ4OCAxMC4zMDkgNy40ODgtNS42NTUgNC4xMDggNy4zNTYgNy4xMzJ2LTEyLjQ3NmwtMTIuMDEtOC43MjV6Ii8+PC9zdmc+"></a>
+    <a href="https://github.com/kejcao"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjYgMC0xMiA1LjM3My0xMiAxMiAwIDUuMzAyIDMuNDM4IDkuOCA4LjIwNyAxMS4zODcuNTk5LjExMS43OTMtLjI2MS43OTMtLjU3N3YtMi4yMzRjLTMuMzM4LjcyNi00LjAzMy0xLjQxNi00LjAzMy0xLjQxNi0uNTQ2LTEuMzg3LTEuMzMzLTEuNzU2LTEuMzMzLTEuNzU2LTEuMDg5LS43NDUuMDgzLS43MjkuMDgzLS43MjkgMS4yMDUuMDg0IDEuODM5IDEuMjM3IDEuODM5IDEuMjM3IDEuMDcgMS44MzQgMi44MDcgMS4zMDQgMy40OTIuOTk3LjEwNy0uNzc1LjQxOC0xLjMwNS43NjItMS42MDQtMi42NjUtLjMwNS01LjQ2Ny0xLjMzNC01LjQ2Ny01LjkzMSAwLTEuMzExLjQ2OS0yLjM4MSAxLjIzNi0zLjIyMS0uMTI0LS4zMDMtLjUzNS0xLjUyNC4xMTctMy4xNzYgMCAwIDEuMDA4LS4zMjIgMy4zMDEgMS4yMy45NTctLjI2NiAxLjk4My0uMzk5IDMuMDAzLS40MDQgMS4wMi4wMDUgMi4wNDcuMTM4IDMuMDA2LjQwNCAyLjI5MS0xLjU1MiAzLjI5Ny0xLjIzIDMuMjk3LTEuMjMuNjUzIDEuNjUzLjI0MiAyLjg3NC4xMTggMy4xNzYuNzcuODQgMS4yMzUgMS45MTEgMS4yMzUgMy4yMjEgMCA0LjYwOS0yLjgwNyA1LjYyNC01LjQ3OSA1LjkyMS40My4zNzIuODIzIDEuMTAyLjgyMyAyLjIyMnYzLjI5M2MwIC4zMTkuMTkyLjY5NC44MDEuNTc2IDQuNzY1LTEuNTg5IDguMTk5LTYuMDg2IDguMTk5LTExLjM4NiAwLTYuNjI3LTUuMzczLTEyLTEyLTEyeiIvPjwvc3ZnPg=="></a>
+    <a href="https://www.kevincao.xyz/"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xMiAwYzYuNjIzIDAgMTIgNS4zNzcgMTIgMTJzLTUuMzc3IDEyLTEyIDEyLTEyLTUuMzc3LTEyLTEyIDUuMzc3LTEyIDEyLTEybTIuNTU3IDE2aC01LjExNWMuNTQ2IDIuNDYgMS40NDEgNC4xMTQgMi41NTggNS43NDQgMS4xOTQtMS43NDEgMi4wNDEtMy40MSAyLjU1Ny01Ljc0NG0tNy4xNTcgMGgtNC41NjdjMS4yMzYgMi44MjUgMy43MDQgNC45NzIgNi43NTUgNS43MTYtMS4wNDgtMS43MzMtMS43ODMtMy42NTgtMi4xODgtNS43MTZtMTMuNzY3IDBoLTQuNTY3Yy0uMzkxIDEuOTg4LTEuMDk1IDMuODg3LTIuMTc1IDUuNjk0IDMuMDEyLS43NjMgNS41MTctMi44OTUgNi43NDItNS42OTRtLTE0LjAwNS02aC00Ljk2MmMtLjI2NyAxLjMxMy0uMjY3IDIuNjg1IDAgNGg0LjkxNWMtLjExOS0xLjMyOS0uMTAxLTIuNjcyLjA0Ny00bTcuNjYxIDBoLTUuNjQ3Yy0uMTY1IDEuMzI2LS4xODUgMi42NzItLjA1MyA0aDUuNzUzYy4xMzMtMS4zMjguMTExLTIuNjczLS4wNTMtNG02Ljk3NyAwaC00Ljk2M2MuMTQ4IDEuMzI4LjE2NiAyLjY3MS4wNDggNGg0LjkxNWMuMjYtMS4yODUuMjczLTIuNjQ4IDAtNG0tMTIuMTU2LTcuNzI5Yy0zLjA3Ny43MzItNS41NjcgMi44ODYtNi44MTEgNS43MjloNC42NTNjLjQzNS0yLjA0MiAxLjE3OC0zLjk4NSAyLjE1OC01LjcyOW0yLjM1NS0uMDQ4Yy0xLjA4OSAxLjc3LTEuOTEgMy40NTMtMi40NjMgNS43NzdoNC45MjdjLS41MzQtMi4yNDYtMS4zMzctMy45NDgtMi40NjQtNS43NzdtMi4zNjguMDY5YzEuMDEzIDEuODEyIDEuNzMzIDMuNzYgMi4xNDYgNS43MDhoNC42NTRjLTEuMjMyLTIuODE2LTMuNzYyLTQuOTU4LTYuOC01LjcwOCIvPjwvc3ZnPg=="></a>
+  </div>
+</div>
+<div class="pink blob bottom-right"></div>
+
+  </main>
+</body>
+</html>
