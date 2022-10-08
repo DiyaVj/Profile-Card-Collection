@@ -1,0 +1,49 @@
+.imag{
+  margin-left: 20px;
+
+ background-color: #F6FBF4;
+  height:110px;
+  width:100px;
+  border-radius: 100% 100% 100% 10%;
+  border-style:ridge;
+  border-width: 3px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style:ridge;
+  border-top-color:#b0e0a8;
+  border-left-color: #b0e0a8;
+  border-right-color: #90b2e4;
+  border-bottom-color: #90b2e4;
+  border-spacing: 5px;
+}
+table{
+  height:220px;
+  width:150px;
+  margin-left: 50%;
+  margin-top: 50px;
+  border: 10px;
+  border-style:inherit;
+  border-radius: 4%;
+
+  background-image: url("download (2).jpg");
+  border-spacing:10%;
+
+}
+div{
+
+ border-radius: 10%;
+}
+.in{
+  margin-left: 10px;
+}
+.icon{
+
+border-radius:100%;
+border-style: ridge;
+border-width: thin;
+border-color:  #90b2e4;
+  margin-top:50px;
+  margin-right:10px;
+  height:30px;
+  width:30px;
+}
