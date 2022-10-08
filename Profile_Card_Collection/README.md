@@ -1,17 +1,18 @@
 ## Contributors Profile Card
 
-| **Name**                      | _Profile card link_                                                                 |
-| ----------------------------- | ----------------------------------------------------------------------------------- |
-| **Kevin Cao**                 | _[My Profile Card](https://www.kevincao.xyz/profile-card/)_                         |
-| **Jasmine Vo**                | _[My Profile Card](https://jasminepvo.github.io/Profile-Card/)_                     |
-| **Devansh Choudhary**         | _[My Profile Card](https://devansh-1007.github.io/pcard/)_                          |
-| **Wojciech Szade**            | _[My Profile Card](https://wojciechszade.github.io/Profile-card/)_                  |
-| **Sarthak Sachdeva**          | _[My Profile Card](https://portfolio-sarthakk24.vercel.app/)_                       |
-| **Dev Vijay**                 | _[My Profile Card](https://devvj-1.github.io/My-profile-card/)_                     |
-| **Adiansyah Dwiki**           | _[My Profile Card](https://adiansyah-dwiki.netlify.app/)_                           |
-| **Pranjal Kumar**             | _[My Profile Card](https://linktr.ee/pranjalkumar)_                                 |
-| **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_   
+| **Name**                      | _Profile card link_                                                                        |
+| ----------------------------- | ------------------------------------------------------------------------------------------ |
+| **Kevin Cao**                 | _[My Profile Card](https://www.kevincao.xyz/profile-card/)_                                |
+| **Jasmine Vo**                | _[My Profile Card](https://jasminepvo.github.io/Profile-Card/)_                            |
+| **Devansh Choudhary**         | _[My Profile Card](https://devansh-1007.github.io/pcard/)_                                 |
+| **Wojciech Szade**            | _[My Profile Card](https://wojciechszade.github.io/Profile-card/)_                         |
+| **Sarthak Sachdeva**          | _[My Profile Card](https://portfolio-sarthakk24.vercel.app/)_                              |
+| **Dev Vijay**                 | _[My Profile Card](https://devvj-1.github.io/My-profile-card/)_                            |
+| **Adiansyah Dwiki**           | _[My Profile Card](https://adiansyah-dwiki.netlify.app/)_                                  |
+| **Pranjal Kumar**             | _[My Profile Card](https://linktr.ee/pranjalkumar)_                                        |
+| **Ritik Jha**                 | _[My Profile Card](https://profilecard17.netlify.app/)_                                    |
 | **Kshitij Singh**             | _[My Profile Card](https://kshitij321.github.io/portfoliocard.github.io/profilecard.html)_ |
+
 | **Mandela T**                 | _[My Profile Card](https://mandelatuks.github.io/Profile-Card/)_                    |
 | **Kalyani Kakade**            | _[My Profile Card](https://mysocialpage.netlify.app/)_                              |
 | **Saransh Sinha**             | _[My Profile Card](http://profile-card-wraith17.vercel.app/)_                       |
