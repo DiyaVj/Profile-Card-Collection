@@ -46,3 +46,4 @@
 | **John Marcial**                | _[My Profile Card](https://john121904.github.io/Profile-Card/)_                      |
 | **Anamika Shukla**       | _[My Profile Card](https://namika0305.github.io/Profile-card/)_        |
 | **Tejesh Annavarapu**       | _[My Profile Card](https://inquisitive-wisp-197149.netlify.app/)_        |
+| **Sandipan Chatterjee**       | _[My Profile Card](https://sandy3002.vercel.app/)_        |
