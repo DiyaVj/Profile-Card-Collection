@@ -50,3 +50,4 @@
 | **Gyanendra Tiwari**       | _[My Profile Card](https://noobmaster432.github.io/profile-card/)_        |
 |**Shashwat Srivastava**    |[My Profile Card](https://shashwat-srivastav.github.io/profile/)_  |
 | **Sandipan Chatterjee**       | _[My Profile Card](https://sandy3002.vercel.app/)_        |
+| **Ayushi Rastogi**       | _[My Profile Card](https://ayushi-ras.github.io/Profile-Card/)_        |
