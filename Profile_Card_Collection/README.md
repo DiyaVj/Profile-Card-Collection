@@ -24,6 +24,7 @@
 | **Abhinav Anand**             | _[My Profile Card](http://abhiportyes.surge.sh/)_                                   |
 | **Draav Jain**                | _[My Profile Card](https://heartfelt-dango-6b418e.netlify.app/)_                    |
 | **Shailendra Singh**          | _[My Profile Card](https://shailendra1703.github.io/Profile-Card/)_                 |
+| **Manan Sharma**              | _[My Profile Card](https://manansharma2710.github.io/Profile-Card/)_                |
 | **Oreoluwa Alaba**            | _[My Profile Card](https://sandiego2049.github.io/profile-card/)_                   |
 | **Akbar Anung Yudha Saputra** | _[My Profile Card](https://akbarsaputrait.github.io/Profile-Card/)_                 |
 | **Saransh Dubey** | _[My Profile Card](https://portfolio-saransh14.vercel.app/)_                 |
@@ -46,4 +47,5 @@
 | **John Marcial**                | _[My Profile Card](https://john121904.github.io/Profile-Card/)_                      |
 | **Anamika Shukla**       | _[My Profile Card](https://namika0305.github.io/Profile-card/)_        |
 | **Tejesh Annavarapu**       | _[My Profile Card](https://inquisitive-wisp-197149.netlify.app/)_        |
+| **Gyanendra Tiwari**       | _[My Profile Card](https://noobmaster432.github.io/profile-card/)_        |
 | **Sandipan Chatterjee**       | _[My Profile Card](https://sandy3002.vercel.app/)_        |
