@@ -52,3 +52,7 @@
 | **Sandipan Chatterjee**       | _[My Profile Card](https://sandy3002.vercel.app/)_                                         |
 | **Muhammad Rizaldi**          | _[My Profile Card](https://mhmmdrzld.dev)_                                                 |
 | **Utsav Rai**                 | _[My Profile Card](https://utsavrai1.github.io/Utsav-rai-Profile-Card/)_                   |
+| **Aman Anand**                | _[My Profile Card](https://amananand917.github.io/Profile-Card/)_                          |
+| **Ayushi Rastogi**            | _[My Profile Card](https://ayushi-ras.github.io/Profile-Card/)_                            |
+| **Sowham Bhuin**              | _[My Profile Card](https://sb-decoder.github.io/My_Profile_Card/)_                         |
+| **Rishabh Verma**             | _[My Profile Card](https://profile-card-rishabh.vercel.app/)_                              |
