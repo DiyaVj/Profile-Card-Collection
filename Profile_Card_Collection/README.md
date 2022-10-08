@@ -51,3 +51,4 @@
 | **Shashwat Srivastava**       | [My Profile Card](https://shashwat-srivastav.github.io/profile/)\_                         |
 | **Sandipan Chatterjee**       | _[My Profile Card](https://sandy3002.vercel.app/)_                                         |
 | **Muhammad Rizaldi**          | _[My Profile Card](https://mhmmdrzld.dev)_                                                 |
+| **Sowham Bhuin**              | _[My Profile Card](https://sb-decoder.github.io/My_Profile_Card/)_                         |
