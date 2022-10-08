@@ -48,4 +48,4 @@
 | **Anamika Shukla**       | _[My Profile Card](https://namika0305.github.io/Profile-card/)_        |
 | **Tejesh Annavarapu**       | _[My Profile Card](https://inquisitive-wisp-197149.netlify.app/)_        |
 | **Gyanendra Tiwari**       | _[My Profile Card](https://noobmaster432.github.io/profile-card/)_        |
-| **Sandipan Chatterjee**       | _[My Profile Card](https://sandy3002.vercel.app/)_        |
+|**Shashwat Srivastava**    |[My Profile Card](https://shashwat-srivastav.github.io/profile/)_  |
