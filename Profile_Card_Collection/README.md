@@ -1,7 +1,7 @@
 ## Contributors Profile Card
 
 | **Name**                      | _Profile card link_                                                                        |
-| ----------------------------- | ------------------------------------------------------------------------------------------ |
+|-------------------------------| ------------------------------------------------------------------------------------------ |
 | **Kevin Cao**                 | _[My Profile Card](https://www.kevincao.xyz/profile-card/)_                                |
 | **Jasmine Vo**                | _[My Profile Card](https://jasminepvo.github.io/Profile-Card/)_                            |
 | **Devansh Choudhary**         | _[My Profile Card](https://devansh-1007.github.io/pcard/)_                                 |
@@ -61,3 +61,4 @@
 | **Shivangi Rai**              | _[My Profile Card](https://shivangirai1310.github.io/Profile-Card/)_                        |
 | **Annapoorneswari HP**        | _[My Profile Card](https://busybee-profile-card.netlify.app/)_                             |
 | **Durga Vamsi Krishna**       | _[My Profile Card](https://htmlpreview.github.io/?https://github.com/vamsikrishnarh7/Profile-Card-Collection/blob/main/Code/Durga%20Vamsi%20Krishna/index.html)_  |
+| **Mehtab Khan**               | _[My Profile Card](https://codemehtab.github.io/my-profile-card/)_                             |
