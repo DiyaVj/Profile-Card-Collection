@@ -46,7 +46,9 @@ Kudos! Your contribution is greatly appreciated.
 <img src="https://c.tenor.com/kEOz87vlud0AAAAC/minions-yahoo.gif" />
 </div>
 
-## Contributors
+## Our amazing Contributors🌟
+
+***Special thanks to [BWsix](https://github.com/BWsix) for adding this section***
 
 <a href="https://github.com/DiyaVj/Profile-Card-Collection/graphs/contributors">
   <p align="center">
