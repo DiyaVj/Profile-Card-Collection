@@ -29,7 +29,7 @@ To begin, use [this template repo](https://github.com/DiyaVj/Profile-Card) to cr
 
 * Fork this repo
 * Go to "Profile_Card_Collection" folder
-* Add your profile card link along with your name in the readme.md file.
+* Add your profile card link along with your image link and  your name in the readme.md file in proper format.
 * Go to the "Code" folder, inside that create a folder with your name and put your code files inside that folder.
 * Create a pull request with a title in the format "Profile_card - {Your Name}"
 
@@ -39,10 +39,18 @@ Please refer to the [CONTRIBUTING.md](https://github.com/DiyaVj/Profile-Card-Col
 
 ***Note: QUANTITY IS FUN, QUALITY IS KEY, We look forward to PRs that add value to open source. Profile card boost your online presence. It is helpful for students, working professionals, entrepreneurs and public officials for their personal branding. This repository is not only about the collection of professional profile cards but also helps one (who doesn't have any profile card) to create their profile card and helps them to empower their personal and professional growth.***
 
+## Our amazing Contributors🌟
+
+***Special thanks to [Sowham Bhuin](https://github.com/sb-decoder) and [BWsix](https://github.com/BWsix) for helping to make the repository better!***
+
+<br>
+<a href="https://github.com/DiyaVj/Profile-Card-Collection/graphs/contributors">
+  <p align="center">
+    <img width="720" src="https://contrib.rocks/image?repo=DiyaVj/Profile-Card-Collection" alt="A table of avatars from the project's contributors" />
+  </p>
+</a>
+
 <div align="center">
-  
-Kudos! Your contribution is greatly appreciated.
-  
+  <h2 align="center">Kudos! Your contribution is greatly appreciated.<h2>
 <img src="https://c.tenor.com/kEOz87vlud0AAAAC/minions-yahoo.gif" />
 </div>
-
