@@ -57,3 +57,4 @@
 | **Sowham Bhuin**              | _[My Profile Card](https://sb-decoder.github.io/My_Profile_Card/)_                         |
 | **Rishabh Verma**             | _[My Profile Card](https://profile-card-rishabh.vercel.app/)_                              |
 | **Chirag Goel**               | _[My Profile Card](https://chirag137.github.io/Chirag-Profile-Card/)_                      |
+| **Shivangi Rai**              | _[My Profile Card](https://shivangirai1310.github.io/Profile-Card/)                        |
