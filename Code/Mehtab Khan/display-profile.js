@@ -1,5 +1,5 @@
 let data_profile;
-fetch("https://codemehtab.github.io/profile-card.json")
+fetch("https://codemehtab.github.io/my-profile-card/profile-card.json")
     .then((response) => {
         if (response.ok) {
             return response.json();
