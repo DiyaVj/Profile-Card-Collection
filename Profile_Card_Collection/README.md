@@ -3,7 +3,6 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
       <td align="center"><a href="https://www.kevincao.xyz/profile-card/"><img src="https://avatars.githubusercontent.com/u/106453563?v=4" width="100px;" alt="Kevin Cao"/><br /><sub><b>Kevin Cao</b></sub></a><br /></td>
       <td align="center"><a href="https://jasminepvo.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/99847030?v=4" width="100px;" alt="Jasmine Vo"/><br /><sub><b>Jasmine Vo</b></sub></a><br /></td>
       <td align="center"><a href="https://devansh-1007.github.io/pcard/"><img src="https://devansh-1007.github.io/pcard/2-kakashi-hatake.jpg" width="100px;" alt="Devansh Choudhary"/><br /><sub><b>Devansh Choudhary</b></sub></a><br /></td>
@@ -75,7 +74,7 @@
      </tr>
      <tr>
      <td align="center"><a href="https://alitindrawan24.github.io/Profile-Card/"><img src="https://alitindrawan24.github.io/Profile-Card/image.png" width="100px;" alt="Alit Indrawan"/><br /><sub><b>Alit Indrawan</b></sub></a><br /></td>
-     
+           <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
      </tr>
       
     
