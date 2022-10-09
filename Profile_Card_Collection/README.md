@@ -1,5 +1,4 @@
-# Contributers Profile Card
-
+# Contributors Profile Cards
 
 <table>
   <tbody>
@@ -62,7 +61,7 @@
     <td align="center"><a href="https://utsavrai1.github.io/Utsav-rai-Profile-Card/"><img src="https://avatars.githubusercontent.com/u/96744747?v=4" width="100px;" alt="Utsav Rai"/><br /><sub><b>Utsav Rai</b></sub></a><br /></td>
     <td align="center"><a href="https://amananand917.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/79956798?v=4" width="100px;" alt="Aman Anand"/><br /><sub><b>Aman Anand</b></sub></a><br /></td>
     <td align="center"><a href="https://mhmmdrzld.dev/"><img src="https://avatars.githubusercontent.com/u/79956798?v=4" width="100px;" alt="Muhammad Rizaldi"/><br /><sub><b>Muhammad Rizaldi</b></sub></a><br /></td>
-    </tr<>
+    </tr>
     <tr>
      <td align="center"><a href="https://ayushi-ras.github.io/Profile-Card/"><img src="https://ayushi-ras.github.io/Profile-Card/images/ayu.jpg" width="100px;" alt="Ayushi Rastogi"/><br /><sub><b>Ayushi Rastogi</b></sub></a><br /></td>
      <td align="center"><a href="https://profile-card-rishabh.vercel.app/"><img src="https://avatars.githubusercontent.com/u/98768218?v=4" width="100px;" alt="Rishabh Verma"/><br /><sub><b>Rishabh Verma</b></sub></a><br /></td>
