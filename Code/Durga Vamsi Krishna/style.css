@@ -1,0 +1,35 @@
+.shadow{
+    box-shadow: 0 5px 20px rgba(0,0,0,0.06);
+}
+.main-content{
+    padding-top: 100px;
+}
+.banner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 125px;
+    background-image:url('social/banner.png');
+    background-position: center;
+    background-size: cover;
+}
+.img-circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    border: 3px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+.profile-card h4{
+    color: #7f00ff;
+    opacity: .6;
+    font-weight: bold;
+}
+.github{
+    height:55px;
+}
+.linkedin{
+    height:50px;
+}
