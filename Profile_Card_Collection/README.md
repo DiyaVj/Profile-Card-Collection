@@ -56,3 +56,4 @@
 | **Ayushi Rastogi**            | _[My Profile Card](https://ayushi-ras.github.io/Profile-Card/)_                            |
 | **Sowham Bhuin**              | _[My Profile Card](https://sb-decoder.github.io/My_Profile_Card/)_                         |
 | **Rishabh Verma**             | _[My Profile Card](https://profile-card-rishabh.vercel.app/)_                              |
+| **raj-hero**                  | _[My Profile Card](https://raj-hero.github.io/raj-hero-card-2/)_
