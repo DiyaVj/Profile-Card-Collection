@@ -1,0 +1,106 @@
+body{
+   background-color: #87A2FB;
+   text-align: center;
+   align-items: center;
+}
+.card11 .imagebox{
+    position: relative;
+
+    height: 100%;
+    width: 100%;
+    transform: translateY(-80px);
+    z-index: 10;
+  }
+   .card11{
+    background: rgba(224, 224, 224, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(224, 224, 224, 0.3);
+    background: linear-gradient(45deg, rgba(224, 224, 224, 0.2),rgba(224, 224, 224, 0.2));
+    width: 200px;
+    height: 180px;
+    margin: 0px auto;
+    position:relative;
+    top: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    padding:  30px 50px;
+    cursor: pointer;
+  } 
+  
+  .card11:hover{
+   height: 320px; 
+   /* From https://css.glass */
+   background: rgba(255, 255, 255, 0.2);
+   border-radius: 16px;
+   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+   backdrop-filter: blur(5px);
+   -webkit-backdrop-filter: blur(5px);
+   border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  .card11 img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    
+  }
+  .card11 .content{
+    padding: 20px 20px;
+    text-align: center;
+    transform: translateY(-500px);
+    opacity: 0;
+    transform: 0.3s;
+  }
+  .card11 .content #desc{
+    /* width: 250px!important; */
+    position: relative;
+    /* right:55px; */
+    /* top: 40px; */
+  }
+  .content .social-handle11{
+    position: relative;
+    width: 200px;
+     right: 20px; 
+     top: 30px; 
+    /* margin-top: 50px!important; */
+  }
+  .content .handles-icon{
+    width: 30px!important;
+    height: 30px!important;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+  .card11:hover > .content{
+    transform: translateY(-240px);
+    opacity: 1;
+  }
+  .card11 .content h2{
+    font-family: 'Roboto', sans-serif;
+    color: #040404;
+    width: 220px;
+     position: relative;
+    right: 28px;
+    top: 20px; 
+    font-size: 29px;
+  }
+  .card11 .content h3{
+    font-family: 'Sansita', sans-serif;
+    color: rgb(27, 29, 58);
+    font-size: 23px!important;
+    width: 250px !important ;
+    position: relative;
+    top: 25px;
+    right: 42px;
+  }
+  .card11 .content i{
+    padding: 10px;
+  }
+  .card11 .content i:hover{
+    transform: translateY(10px);
+    transition: 0.4s;
+    color: #000;
+  }
+  
