@@ -72,6 +72,10 @@
      <td align="center"><a href="https://codemehtab.github.io/my-profile-card/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEjs1zmIpgJbA/profile-displayphoto-shrink_800_800/0/1628443827025?e=1670457600&v=beta&t=unY6WJAGR097RmRvw0Ly3sv6aQSQWAy1S5RrTx1FWdM" width="100px;" alt="Annapoorneswari HP"/><br /><sub><b>Mehtab Khan</b></sub></a><br /></td>
      <td align="center"><a href="https://ritik0012.github.io/Ritik-Profile-Card/"><img src="https://avatars.githubusercontent.com/u/106300264?v=4" width="100px;" alt="Ritik Kumar"/><br /><sub><b>Ritik Kumar</b></sub></a><br /></td>
      </tr>
+     <tr>
+     <td align="center"><a href="https://alitindrawan24.github.io/Profile-Card/"><img src="https://alitindrawan24.github.io/Profile-Card/image.png" width="100px;" alt="Alit Indrawan"/><br /><sub><b>Alit Indrawan</b></sub></a><br /></td>
+     
+     </tr>
       
     
   </tbody>
