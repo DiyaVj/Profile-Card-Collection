@@ -1,0 +1,50 @@
+*{
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    font-family: 'Dancing Script';
+}
+
+.card{ 
+    height: 60vh;
+    width: 25vw;
+    background: #302b63;
+    border: 1px solid white;
+    margin: 25vh auto;
+    position: relative;
+    overflow-x: hid
+}
+
+.card *{
+    background: #302b63;
+}
+.profile{
+    margin: 2vw 7vh;
+}
+
+.profile > img{
+    height: 15rem;
+}
+
+.name > h2{
+    color: rgb(206, 202, 202);
+    margin-left: 30%;
+    margin-top: -5%;
+}
+
+.contact{
+    display: flex;
+    justify-content:space-around;
+    height: 3rem;
+}
+
+.contact a{
+    display: flex;
+    justify-content:space-around;
+    height: 3rem;
+}
+
+.contact a:hover{
+    padding: 5px;
+}
+
+
+
