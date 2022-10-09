@@ -39,32 +39,18 @@ Please refer to the [CONTRIBUTING.md](https://github.com/DiyaVj/Profile-Card-Col
 
 ***Note: QUANTITY IS FUN, QUALITY IS KEY, We look forward to PRs that add value to open source. Profile card boost your online presence. It is helpful for students, working professionals, entrepreneurs and public officials for their personal branding. This repository is not only about the collection of professional profile cards but also helps one (who doesn't have any profile card) to create their profile card and helps them to empower their personal and professional growth.***
 
-## Contributors 
-<br>
-<h1 align="center">
- <b>All Thanks goes to these people
-<h1>
-<a href="https://github.com/DiyaVj
-/
-Profile-Card-Collection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DiyaVj/Profile-Card-Collection" />
-</a>
-<br>
-<div align="center">
-  <h6 align="center">Kudos! Your contribution is greatly appreciated.<h6>
-<img src="https://c.tenor.com/kEOz87vlud0AAAAC/minions-yahoo.gif" />
-</div>
-
 ## Our amazing Contributors🌟
 
-***Special thanks to [BWsix](https://github.com/BWsix) for adding this section***
+***Special thanks to [Sowham Bhuin](https://github.com/sb-decoder) and [BWsix](https://github.com/BWsix) for helping to make the repository better!***
 
+<br>
 <a href="https://github.com/DiyaVj/Profile-Card-Collection/graphs/contributors">
   <p align="center">
     <img width="720" src="https://contrib.rocks/image?repo=DiyaVj/Profile-Card-Collection" alt="A table of avatars from the project's contributors" />
   </p>
 </a>
 
-<p align="center">
-  Made with <a rel="noopener noreferrer" target="_blank" href="https://contrib.rocks">contrib.rocks</a>
-</p>
+<div align="center">
+  <h2 align="center">Kudos! Your contribution is greatly appreciated.<h2>
+<img src="https://c.tenor.com/kEOz87vlud0AAAAC/minions-yahoo.gif" />
+</div>
