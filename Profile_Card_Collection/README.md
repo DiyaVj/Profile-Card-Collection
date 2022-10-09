@@ -60,3 +60,4 @@
 | **Chirag Goel**               | _[My Profile Card](https://chirag137.github.io/Chirag-Profile-Card/)_                      |
 | **Shivangi Rai**              | _[My Profile Card](https://shivangirai1310.github.io/Profile-Card/)_                        |
 | **Annapoorneswari HP**        | _[My Profile Card](https://busybee-profile-card.netlify.app/)_                             |
+| **Durga Vamsi Krishna**       | _[My Profile Card](https://htmlpreview.github.io/?https://github.com/vamsikrishnarh7/Profile-Card-Collection/blob/main/Code/Durga%20Vamsi%20Krishna/index.html)_  |
