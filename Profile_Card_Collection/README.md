@@ -80,7 +80,10 @@
      <td align="center"><a href="https://anubhavgupta18.github.io/Portfolio-Card/"><img src="https://anubhavgupta18.github.io/Portfolio-Card/assets/24394.jpg" width="100px;" alt="Anubhav Gupta"/><br /><sub><b>Anubhav Gupta</b></sub></a><br /></td>
      <td align="center"><a href="https://hugekontrast.github.io/ashishk-card/"><img src="https://avatars.githubusercontent.com/u/44055846?v=4" width="100px;" alt="Ashish Khare"/><br /><sub><b>Ashish Khare</b></sub></a><br /></td>
      <td align="center"><a href="https://shinchan3102.github.io/ProfileCard/"><img src="https://github.com/Shinchan3102/ProfileCard/blob/master/images/profile.jpg?raw=true" width="100px;" alt="Ankit Kumar"/><br /><sub><b>Ankit Kumar</b></sub></a><br /></td>
-      <td align="center"><a href="https://noobmaster432.github.io/profile-card/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFWYB_QPpOSbw/profile-displayphoto-shrink_200_200/0/1652599726639?e=1671062400&v=beta&t=B-ofO5U4lA_bD5XajntYjT5urmxXHZMG0A0Q47udbIM" width="100px;" alt="Gyanendra Tiwari"/><br /><sub><b>Gyanendra Tiwari</b></sub></a><br /></td>
+     <td align="center"><a href="https://noobmaster432.github.io/profile-card/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFWYB_QPpOSbw/profile-displayphoto-shrink_200_200/0/1652599726639?e=1671062400&v=beta&t=B-ofO5U4lA_bD5XajntYjT5urmxXHZMG0A0Q47udbIM" width="100px;" alt="Gyanendra Tiwari"/><br /><sub><b>Gyanendra Tiwari</b></sub></a><br /></td>
+      </tr>
+    <tr>
+     <td align="center"><a href="https://ankitranjan1028.github.io/ankit_ranjan-profile-card/"><img src="https://avatars.githubusercontent.com/u/106846900?s=400&u=a646729468371d4c5c0148570e8e81622ec6e659&v=4" width="100px;" alt="Ankit Ranjan"/><br /><sub><b>Ankit Ranjan</b></sub></a><br /></td>
      </tr>
     
   </tbody>
