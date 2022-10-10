@@ -14,5 +14,4 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Hola! @${{ github.actor }} 🥳 , You've just created an Issue!🌟 Thanks for making the Repository Better"
         pr-message: "Hey @${{ github.actor }}, Congratulations! You've made your first pull request."
-        label: 'Hacktoberfest'
         
