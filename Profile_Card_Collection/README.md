@@ -84,6 +84,8 @@
       </tr>
     <tr>
      <td align="center"><a href="https://ankitranjan1028.github.io/ankit_ranjan-profile-card/"><img src="https://avatars.githubusercontent.com/u/106846900?s=400&u=a646729468371d4c5c0148570e8e81622ec6e659&v=4" width="100px;" alt="Ankit Ranjan"/><br /><sub><b>Ankit Ranjan</b></sub></a><br /></td>
+     <td align="center"><a href="https://aryan-jaiswal-12.github.io/profile-card/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEoDHKnAqXeXQ/profile-displayphoto-shrink_800_800/0/1639855117905?e=1671062400&v=beta&t=dwCyebs9FV_OxEFlFqpK6Y0jr19T7ScWUS6NFFkgEr0" width="100px;" alt="Aryan Jaiswal"/><br /><sub><b>Aryan Jaiswal</b></sub></a><br /></td>
+     
      </tr>
     
   </tbody>
