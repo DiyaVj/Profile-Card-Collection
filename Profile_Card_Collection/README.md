@@ -73,10 +73,11 @@
      <td align="center"><a href="https://ritik0012.github.io/Ritik-Profile-Card/"><img src="https://avatars.githubusercontent.com/u/106300264?v=4" width="100px;" alt="Ritik Kumar"/><br /><sub><b>Ritik Kumar</b></sub></a><br /></td>
      </tr>
      <tr>
-     <td align="center"><a href="https://alitindrawan24.github.io/Profile-Card/"><img src="https://alitindrawan24.github.io/Profile-Card/image.png" width="100px;" alt="Alit Indrawan"/><br /><sub><b>Alit Indrawan</b></sub></a><br /></td>
-           <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
-              <td align="center"><a href="https://radhika403.github.io/ProfileCard/"><img src="https://radhika403.github.io/ProfileCard/Pictures/Radhika.png" width="100px;" alt="Radhika Bansal"/><br /><sub><b>Radhika Bansal</b></sub></a><br /></td>
-              <td align="center"><a href="https://anubhavgupta18.github.io/Portfolio-Card/"><img src="https://anubhavgupta18.github.io/Portfolio-Card/assets/24394.jpg" width="100px;" alt="Anubhav Gupta"/><br /><sub><b>Anubhav Gupta</b></sub></a><br /></td>
+        <td align="center"><a href="https://alitindrawan24.github.io/Profile-Card/"><img src="https://alitindrawan24.github.io/Profile-Card/image.png" width="100px;" alt="Alit Indrawan"/><br /><sub><b>Alit Indrawan</b></sub></a><br /></td>
+        <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
+        <td align="center"><a href="https://radhika403.github.io/ProfileCard/"><img src="https://radhika403.github.io/ProfileCard/Pictures/Radhika.png" width="100px;" alt="Radhika Bansal"/><br /><sub><b>Radhika Bansal</b></sub></a><br /></td>
+        <td align="center"><a href="https://anubhavgupta18.github.io/Portfolio-Card/"><img src="https://anubhavgupta18.github.io/Portfolio-Card/assets/24394.jpg" width="100px;" alt="Anubhav Gupta"/><br /><sub><b>Anubhav Gupta</b></sub></a><br /></td>
+        <td align="center"><a href="https://hugekontrast.github.io/ashishk-card/"><img src="https://avatars.githubusercontent.com/u/44055846?v=4" width="100px;" alt="Ashish Khare"/><br /><sub><b>Ashish Khare</b></sub></a><br /></td>
      </tr>
     
   </tbody>
