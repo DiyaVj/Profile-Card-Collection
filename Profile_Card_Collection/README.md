@@ -73,11 +73,13 @@
      <td align="center"><a href="https://ritik0012.github.io/Ritik-Profile-Card/"><img src="https://avatars.githubusercontent.com/u/106300264?v=4" width="100px;" alt="Ritik Kumar"/><br /><sub><b>Ritik Kumar</b></sub></a><br /></td>
      </tr>
      <tr>
-        <td align="center"><a href="https://alitindrawan24.github.io/Profile-Card/"><img src="https://alitindrawan24.github.io/Profile-Card/image.png" width="100px;" alt="Alit Indrawan"/><br /><sub><b>Alit Indrawan</b></sub></a><br /></td>
-        <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
-        <td align="center"><a href="https://radhika403.github.io/ProfileCard/"><img src="https://radhika403.github.io/ProfileCard/Pictures/Radhika.png" width="100px;" alt="Radhika Bansal"/><br /><sub><b>Radhika Bansal</b></sub></a><br /></td>
-        <td align="center"><a href="https://anubhavgupta18.github.io/Portfolio-Card/"><img src="https://anubhavgupta18.github.io/Portfolio-Card/assets/24394.jpg" width="100px;" alt="Anubhav Gupta"/><br /><sub><b>Anubhav Gupta</b></sub></a><br /></td>
-        <td align="center"><a href="https://hugekontrast.github.io/ashishk-card/"><img src="https://avatars.githubusercontent.com/u/44055846?v=4" width="100px;" alt="Ashish Khare"/><br /><sub><b>Ashish Khare</b></sub></a><br /></td>
+     <td align="center"><a href="https://alitindrawan24.github.io/Profile-Card/"><img src="https://alitindrawan24.github.io/Profile-Card/image.png" width="100px;" alt="Alit Indrawan"/><br /><sub><b>Alit Indrawan</b></sub></a><br /></td>
+     <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
+     <td align="center"><a href="https://radhika403.github.io/ProfileCard/"><img src="https://radhika403.github.io/ProfileCard/Pictures/Radhika.png" width="100px;" alt="Radhika Bansal"/><br /><sub><b>Radhika Bansal</b></sub></a><br /></td>
+     <td align="center"><a href = "https://ayushtiwari110.github.io/PROFILE-CARD/"><img src="https://instagram.fmaa8-1.fna.fbcdn.net/v/t51.2885-19/310713212_497898022202010_3567683028260464532_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fmaa8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CK8kLbr-YLkAX889Wj4&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8s3SdBHv7QmKadNkPkjRdR_Nl_gvN_STRWDfKoymlCfg&oe=634957E2&_nc_sid=8fd12b" width="100px;" alt="ayush t"/><br /><sub><b>Ayush Tiwari</b></sub></a><br /></td>
+     <td align="center"><a href="https://anubhavgupta18.github.io/Portfolio-Card/"><img src="https://anubhavgupta18.github.io/Portfolio-Card/assets/24394.jpg" width="100px;" alt="Anubhav Gupta"/><br /><sub><b>Anubhav Gupta</b></sub></a><br /></td>
+     <td align="center"><a href="https://hugekontrast.github.io/ashishk-card/"><img src="https://avatars.githubusercontent.com/u/44055846?v=4" width="100px;" alt="Ashish Khare"/><br /><sub><b>Ashish Khare</b></sub></a><br /></td>
+
      </tr>
     
   </tbody>
