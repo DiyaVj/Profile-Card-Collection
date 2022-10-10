@@ -77,6 +77,7 @@
            <td align="center"><a href="https://incognion.github.io/profile-card/"><img src="https://avatars.githubusercontent.com/u/97580124?v=4" width="100px;" alt="Ashutosh Kumar"/><br /><sub><b>Ashutosh Kumar</b></sub></a><br /></td>
               <td align="center"><a href="https://radhika403.github.io/ProfileCard/"><img src="https://radhika403.github.io/ProfileCard/Pictures/Radhika.png" width="100px;" alt="Radhika Bansal"/><br /><sub><b>Radhika Bansal</b></sub></a><br /></td>
               <td align="center"><a href="https://anubhavgupta18.github.io/Portfolio-Card/"><img src="https://anubhavgupta18.github.io/Portfolio-Card/assets/24394.jpg" width="100px;" alt="Anubhav Gupta"/><br /><sub><b>Anubhav Gupta</b></sub></a><br /></td>
+              <td align="center"><a href="https://ankitranjan1028.github.io/ankit_ranjan-profile-card/"><img src="https://avatars.githubusercontent.com/u/106846900?s=400&u=a646729468371d4c5c0148570e8e81622ec6e659&v=4" width="100px;" alt="Ankit Ranjan"/><br /><sub><b>Ankit Ranjan</b></sub></a><br /></td>
      </tr>
     
   </tbody>
