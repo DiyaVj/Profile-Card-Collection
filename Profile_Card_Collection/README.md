@@ -87,6 +87,7 @@
      <td align="center"><a href="https://aryan-jaiswal-12.github.io/profile-card/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEoDHKnAqXeXQ/profile-displayphoto-shrink_800_800/0/1639855117905?e=1671062400&v=beta&t=dwCyebs9FV_OxEFlFqpK6Y0jr19T7ScWUS6NFFkgEr0" width="100px;" alt="Aryan Jaiswal"/><br /><sub><b>Aryan Jaiswal</b></sub></a><br /></td>
      <td align="center"><a href="https://yellowflash1777.github.io/Profile-card/"><img src="https://repository-images.githubusercontent.com/420842401/edafbe98-35d6-4772-85dd-61cfbc644844" width="100px;" alt="Prashant Prithyani"/><br /><sub><b>Prashant Prithyani</b></sub></a><br /></td>
       <td align="center"><a href="https://saurabhhsinghh.github.io/saurabhsinghprofilecard/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Picture-986x1024.jpg" width="100px;" alt="Saurabh Kumar Singh"/><br /><sub><b>Saurabh Kumar Singh</b></sub></a><br /></td>
+      <td align="center"><a href="https://ritika0405.github.io/My-Profile-Card/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Picture-986x1024.jpg" width="100px;" alt="Ritika Kumari"/><br /><sub><b>Ritika Kumari</b></sub></a><br /></td>
      </tr>
     
     
