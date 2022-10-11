@@ -45,8 +45,8 @@ Please refer to the [CONTRIBUTING.md](https://github.com/DiyaVj/Profile-Card-Col
 
 <br>
 <a href="https://github.com/DiyaVj/Profile-Card-Collection/graphs/contributors">
-  <p align="center">
-    <img width="720" src="https://contrib.rocks/image?repo=DiyaVj/Profile-Card-Collection" alt="A table of avatars from the project's contributors" />
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=DiyaVj/Profile-Card-Collection" />
   </p>
 </a>
 
