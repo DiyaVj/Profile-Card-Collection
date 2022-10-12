@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #4fb8e9;
+	 font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.card {
+	background-color: #6dcfe0cd;
+	height: 350px;
+	width: 300px;
+	text-align: center;
+	padding-top: 10px;
+	border-radius: 5px;
+}
+
+.card img{
+    max-width: 150px;
+}
+
+.card .round {
+	border: 1px solid #ffffff;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+h3 {
+	margin: 10px 0;
+}
+
+h6 {
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+	text-align: center;
+}
+
+.skills {
+	text-align: left;
+	padding: 15px;
+	margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.skills a{
+    text-decoration: none;
+    color: white;
+}
+.links{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.skills img {
+    max-width: 40px;
+}
+.linkedin img{
+	width: 50px;
+}
+.linkedin
+{
+	position: relative;
+	left: 40%;
+}
+.github
+{
+	position: relative;
+	right: 40%;
+}
+
