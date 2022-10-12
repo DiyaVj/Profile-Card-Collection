@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <style>
+        body {
+            background-color: lightblue;
+            color: black;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        .profile {
+            height: 25rem;
+            width: 20rem;
+            /* display:flex; */
+            flex-direction:column;
+            margin: auto;
+            justify-content: center;
+            /* align-items: center; */
+            margin-top:20px;
+            background: linear-gradient(90deg, lightcoral 50%, lightgreen 50%);
+            border-radius:15px;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        }
+        img{
+            border-radius:50%;
+            margin-top:70px;
+            border:1px solid gray;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
+        .image{
+            display: flex;
+            margin: auto;
+            justify-content: center;
+            align-items: center;
+            border-image:linear-gradient(to right, red, purple);
+        }
+        h1,h4{
+            text-align: center;
+        }
+        h4{margin-top:-21px;}
+        .social{list-style-type: none;display: flex;align-items: center;justify-content: center;margin-top:-60px;}
+        .social li{margin: 0px 8px;}
+        .container{margin-top:4rem;}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="profile">
+            <div class="image"><img src="assets/sachin22.jpg" height="144em" width="144em"></div>
+            <h1>Sachin Kumar</h1>
+            <h4>(Web Developer)</h4>
+            <div class="social">
+                <li><a href="https://www.linkedin.com/in/sachin-kumar-1st-203991224/"><img src="assets/linkedin (1).png" height="25px"></a></li>
+                <li><a href="https://www.instagram.com/imsachin49/?next=%2F"><img src="assets/instagram (2).png" height="25px"></a></li>
+                <li><a href="https://github.com/imsachin49"><img src="assets/github.png" height="25px"></a></li>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
