@@ -95,11 +95,10 @@
     <tr>
       <td align="center"><a href="https://shivang1919.github.io/css_card/"><img src="https://raw.githubusercontent.com/shivang1919/css_card/main/images/profile.jpg?token=GHSAT0AAAAAABZT7VXRYWWF5JCJ6M4TOP5AY2GTZOA" width="100px;" alt="Shivang Sharma"/><br /><sub><b>Shivang Sharma</b></sub></a><br /></td>
       <td align="center"><a href="https://ankit62042.github.io/Profile_Card/"><img src="https://pbs.twimg.com/profile_images/1560831529915322368/9esMlEaj_400x400.jpg" width="100px;" alt="Ankit Kumar"/><br /><sub><b>Ankit Kumar</b></sub></a><br /></td>
+      <td align="center"><a href="https://richesh27.github.io/My-Profile-card/"><img src="https://richesh27.github.io/My-Profile-card/accessories/mine.jpg" width="100px;" alt="Richesh Kunwar"/><br /><sub><b>Richesh Kunwar</b></sub></a><br /></td>
       <td align="center"><a href="https://linktr.ee/pranjalkumar"><img src="https://avatars.githubusercontent.com/u/71400605?v=4" width="100px;" alt="Pranjal Kumar"/><br /><sub><b>Pranjal Kumar</b></sub></a><br /></td>
-     </tr>
-     <tr>
      <td align="center"><a href="https://mysteryhawk17.github.io/ProfileCardUI/"><img src="https://media-exp1.licdn.com/dms/image/D5603AQF5RJenGHExag/profile-displayphoto-shrink_400_400/0/1665388552482?e=1671062400&v=beta&t=oaQBCItuB8Ry6BpvdV4R8-GRW4eiYhKc3pkmjK_J3Jg" width="100px;" alt="Yash Raj"/><br /><sub><b>Yash Raj</b></sub></a><br /></td>
      </tr>
-    
+   
   </tbody>
 </table>
