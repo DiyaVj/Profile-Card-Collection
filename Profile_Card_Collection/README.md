@@ -99,7 +99,9 @@
       <td align="center"><a href="https://linktr.ee/pranjalkumar"><img src="https://avatars.githubusercontent.com/u/71400605?v=4" width="100px;" alt="Pranjal Kumar"/><br /><sub><b>Pranjal Kumar</b></sub></a><br /></td>
      <td align="center"><a href="https://mysteryhawk17.github.io/ProfileCardUI/"><img src="https://media-exp1.licdn.com/dms/image/D5603AQF5RJenGHExag/profile-displayphoto-shrink_400_400/0/1665388552482?e=1671062400&v=beta&t=oaQBCItuB8Ry6BpvdV4R8-GRW4eiYhKc3pkmjK_J3Jg" width="100px;" alt="Yash Raj"/><br /><sub><b>Yash Raj</b></sub></a><br /></td>
 	   <td align="center"><a href="https://vishalpattnaik.github.io/profile-card/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Awesome-Photo.jpg" width="100px;" alt="Vishal P"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
+     <td align="center"><a href="https://giardim.github.io/ProfileCard/"><img src="https://i.stack.imgur.com/frlIf.png" width="100px;" alt="Michael G"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
      </tr>
    
   </tbody>
 </table>
+
