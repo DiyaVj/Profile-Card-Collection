@@ -106,7 +106,9 @@
      <td align="center"><a href="https://cristuker.github.io/"><img src="https://cristuker.github.io/images/Profile.jpeg" width="100px;" alt="Cristian Silva"/><br /><sub><b>Cristian Silva </b></sub></a><br /></td>
 	     <td align="center"><a href="https://kritsss.github.io/Profile-Card/"><img src="https://drive.google.com/file/d/1w3Ku0KnTpFEyPOLBggaFC37MviV6Ycwk/view?usp=sharing" width="100px;" alt="Kritika Sukhramani"/><br /><sub><b>Kritika Sukhramani</b></sub></a><br /></td>
      </tr>
-   
+     <tr>
+     <td align="center"><a href=" https://tanya25-05.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/76803870?s=96&v=4" width="100px;" alt="Tanya Verma"/><br /><sub><b>Tanya Verma</b></sub></a><br /></td>
+   </tr>
   </tbody>
 </table>
 
