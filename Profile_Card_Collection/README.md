@@ -109,7 +109,9 @@
 	     <td align="center"><a href="https://geeky-hypertext629.github.io/Profile-Card/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHMwzgj4hP42A/profile-displayphoto-shrink_800_800/0/1647196635841?e=1671062400&v=beta&t=HzAJhu3z2LuoVZIxxBJsxvFm_O4L6RTxiLXS6YYAY3o" width="100px;" alt="Subham Chandra"/><br /><sub><b>Subham Chandra</b></sub></a><br /></td>
 
      </tr>
-   
+     <tr>
+     <td align="center"><a href=" https://tanya25-05.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/76803870?s=96&v=4" width="100px;" alt="Tanya Verma"/><br /><sub><b>Tanya Verma</b></sub></a><br /></td>
+   </tr>
   </tbody>
 </table>
 
