@@ -104,6 +104,7 @@
      </tr>
      <tr>
      <td align="center"><a href="https://cristuker.github.io/"><img src="https://cristuker.github.io/images/Profile.jpeg" width="100px;" alt="Cristian Silva"/><br /><sub><b>Cristian Silva </b></sub></a><br /></td>
+     <td align="center"><a href="https://divyanshu-jhaa.github.io/Profile_card/"><img src="https://divyanshu-jhaa.github.io/Profile_card/assests/img.jpg" width="100px;" alt="Divyanshu Jha"/><br /><sub><b>Divyanshu Jha</b></sub></a><br /></td>
      </tr>
    
   </tbody>

@@ -1,0 +1,64 @@
+body {
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 5px rgba(0, 0, 0, 0.633);
+    width: 299px;
+
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+.profile {
+    height: 345px;
+}
+
+.logo {
+    display: inline;
+    width: fit-content;
+    margin: 5px;
+}
+
+.logo-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+.btn {
+    background-color: black;
+    color: aliceblue;
+}
