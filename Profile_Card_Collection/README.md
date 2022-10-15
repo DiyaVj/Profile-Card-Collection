@@ -93,14 +93,23 @@
       <td align="center"><a href="https://sneha19-k.github.io/MY-PROFILECARD/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Picture-986x1024.jpg" width="100px;" alt="Sneha Kedia"/><br /><sub><b>Sneha Kedia</b></sub></a><br /></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://shivang1919.github.io/css_card/"><img src="https://raw.githubusercontent.com/shivang1919/css_card/main/images/profile.jpg?token=GHSAT0AAAAAABZT7VXRYWWF5JCJ6M4TOP5AY2GTZOA" width="100px;" alt="Shivang Sharma"/><br /><sub><b>Shivang Sharma</b></sub></a><br /></td>
+      <td align="center"><a href="https://shivang1919.github.io/css_card/"><img src="https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png" width="100px;" alt="Shivang Sharma"/><br /><sub><b>Shivang Sharma</b></sub></a><br /></td>
       <td align="center"><a href="https://ankit62042.github.io/Profile_Card/"><img src="https://pbs.twimg.com/profile_images/1560831529915322368/9esMlEaj_400x400.jpg" width="100px;" alt="Ankit Kumar"/><br /><sub><b>Ankit Kumar</b></sub></a><br /></td>
       <td align="center"><a href="https://richesh27.github.io/My-Profile-card/"><img src="https://richesh27.github.io/My-Profile-card/accessories/mine.jpg" width="100px;" alt="Richesh Kunwar"/><br /><sub><b>Richesh Kunwar</b></sub></a><br /></td>
       <td align="center"><a href="https://linktr.ee/pranjalkumar"><img src="https://avatars.githubusercontent.com/u/71400605?v=4" width="100px;" alt="Pranjal Kumar"/><br /><sub><b>Pranjal Kumar</b></sub></a><br /></td>
      <td align="center"><a href="https://mysteryhawk17.github.io/ProfileCardUI/"><img src="https://media-exp1.licdn.com/dms/image/D5603AQF5RJenGHExag/profile-displayphoto-shrink_400_400/0/1665388552482?e=1671062400&v=beta&t=oaQBCItuB8Ry6BpvdV4R8-GRW4eiYhKc3pkmjK_J3Jg" width="100px;" alt="Yash Raj"/><br /><sub><b>Yash Raj</b></sub></a><br /></td>
+     <td align="center"><a href="https://sks8784.github.io/CSS-Card/"><img src="https://cdn.iconscout.com/icon/free/png-512/avatar-370-456322.png" width="100px;" alt="sinha"/><br /><sub><b>Shubham Kumar Sinha</b></sub></a><br /></td>
 	   <td align="center"><a href="https://vishalpattnaik.github.io/profile-card/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Awesome-Photo.jpg" width="100px;" alt="Vishal P"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
+<<<<<<< HEAD
      <td align="center"><a href="https://kritsss.github.io/Profile-Card/"><img src="https://drive.google.com/file/d/1w3Ku0KnTpFEyPOLBggaFC37MviV6Ycwk/view?usp=sharing" width="100px;" alt="Kritika Sukhramani"/><br /><sub><b>Kritika Sukhramani</b></sub></a><br /></td>
+=======
+     <td align="center"><a href="https://giardim.github.io/ProfileCard/"><img src="https://i.stack.imgur.com/frlIf.png" width="100px;" alt="Michael G"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
+     </tr>
+     <tr>
+     <td align="center"><a href="https://cristuker.github.io/"><img src="https://cristuker.github.io/images/Profile.jpeg" width="100px;" alt="Cristian Silva"/><br /><sub><b>Cristian Silva </b></sub></a><br /></td>
+>>>>>>> c51f75a2d9a2fa1fc9cee890fe39e9c6c5212d64
      </tr>
    
   </tbody>
 </table>
+
