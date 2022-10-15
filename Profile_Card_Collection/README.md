@@ -98,6 +98,7 @@
       <td align="center"><a href="https://richesh27.github.io/My-Profile-card/"><img src="https://richesh27.github.io/My-Profile-card/accessories/mine.jpg" width="100px;" alt="Richesh Kunwar"/><br /><sub><b>Richesh Kunwar</b></sub></a><br /></td>
       <td align="center"><a href="https://linktr.ee/pranjalkumar"><img src="https://avatars.githubusercontent.com/u/71400605?v=4" width="100px;" alt="Pranjal Kumar"/><br /><sub><b>Pranjal Kumar</b></sub></a><br /></td>
      <td align="center"><a href="https://mysteryhawk17.github.io/ProfileCardUI/"><img src="https://media-exp1.licdn.com/dms/image/D5603AQF5RJenGHExag/profile-displayphoto-shrink_400_400/0/1665388552482?e=1671062400&v=beta&t=oaQBCItuB8Ry6BpvdV4R8-GRW4eiYhKc3pkmjK_J3Jg" width="100px;" alt="Yash Raj"/><br /><sub><b>Yash Raj</b></sub></a><br /></td>
+     <td align="center"><a href="https://sks8784.github.io/CSS-Card/"><img src="https://raw.githubusercontent.com/sks8784/CSS-Card/main/images/color-2174065.png" width="100px;" alt="sks"/><img src="https://raw.githubusercontent.com/sks8784/CSS-Card/main/images/myphtoto.jpg" width="100px;" alt="sinha"/><br /><sub><b>Shubham Kumar Sinha</b></sub></a><br /></td>
 	   <td align="center"><a href="https://vishalpattnaik.github.io/profile-card/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Awesome-Photo.jpg" width="100px;" alt="Vishal P"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
      </tr>
    
