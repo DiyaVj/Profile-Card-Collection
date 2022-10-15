@@ -99,6 +99,7 @@
       <td align="center"><a href="https://linktr.ee/pranjalkumar"><img src="https://avatars.githubusercontent.com/u/71400605?v=4" width="100px;" alt="Pranjal Kumar"/><br /><sub><b>Pranjal Kumar</b></sub></a><br /></td>
      <td align="center"><a href="https://mysteryhawk17.github.io/ProfileCardUI/"><img src="https://media-exp1.licdn.com/dms/image/D5603AQF5RJenGHExag/profile-displayphoto-shrink_400_400/0/1665388552482?e=1671062400&v=beta&t=oaQBCItuB8Ry6BpvdV4R8-GRW4eiYhKc3pkmjK_J3Jg" width="100px;" alt="Yash Raj"/><br /><sub><b>Yash Raj</b></sub></a><br /></td>
 	   <td align="center"><a href="https://vishalpattnaik.github.io/profile-card/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Awesome-Photo.jpg" width="100px;" alt="Vishal P"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
+     <td align="center"><a href="https://kritsss.github.io/Profile-Card/"><img src="https://drive.google.com/file/d/1w3Ku0KnTpFEyPOLBggaFC37MviV6Ycwk/view?usp=sharing" width="100px;" alt="Kritika Sukhramani"/><br /><sub><b>Kritika Sukhramani</b></sub></a><br /></td>
      </tr>
    
   </tbody>
