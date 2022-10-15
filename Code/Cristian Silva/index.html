@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+            crossorigin="anonymous"
+        />
+        <link rel="stylesheet" href="css/style.css" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
+            rel="stylesheet"
+        />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="favicon/apple-touch-icon.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="favicon/favicon-32x32.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="favicon/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/site.webmanifest" />
+        <title>Cristian Silva</title>
+    </head>
+
+
+<body onload="getRepository()">
+    <section id="ProfileInfo" class="slide-top">
+        <div id="languages">
+            <button type="button" onclick="changeLanguage('pt')" class="btnLanguage" alt="pt language mode">pt</button>
+            <button type="button" onclick="changeLanguage('en')" class="btnLanguage" alt="en language mode">en</button>
+            <button type="button" onclick="changeLanguage('es')" class="btnLanguage" alt="es language mode">es</button>
+        </div>
+        <div>
+            <img id="profile" src="images/Profile.jpeg" alt="Profile Photo">
+        </div>
+        <br />
+        <h2 class="name" alt="My name">//cristian silva</h2>
+        <br />
+        <div id="container-bio">
+            <p id="bio" alt="My description">
+                Fascinado na área de tecnologia desde 2014, com fome de conhecimento, codar se transformou na minha
+                paixão.
+                Em ambito profissional, tenho boa desenvoltura em trabalho em equipe e resolução de problemas.
+                Sempre estudando para ser a melhor versão do meu lado profissional. Focado na Stack Node.js, React.js e
+                futuramente React Native.
+            </p>
+        </div>
+        <div id="contact" >
+            <a class="iconBio" target="blank" alt="Link to my city"
+                href="https://www.google.com/maps/place/Guaruj%C3%A1+-+SP/data=!4m2!3m1!1s0x94d1fe0bcb5eefe3:0xd3ce231a2f8a0536?sa=X&ved=2ahUKEwiV26-7ou7pAhVMEbkGHdd6DRcQ8gEwI3oECBcQBg">
+                <img src="icons/location.svg" /><p>Guarujá, SP</p>
+            </a>
+            <a class="iconBio" target="blank" href="http://www.github.com/Cristuker" alt="Link to my github">
+                <img src="icons/github.svg" />
+                <p>Cristuker</p>
+            </a>
+            <a class="iconBio" target="blank" href="https://twitter.com/tucks_99" alt="Link to my twitter">
+                <img src="icons/twitter.svg" />
+                <p>tucks_99</p>
+            </a> 
+            <a class="iconBio" target="blank" href="http://www.linkedin.com/in/cristian-silva-dev/" alt="Link to my linkedin">
+                <img src="icons/linkedin.svg" /><p>cristian-silva-dev/</p>
+            </a>
+            <a class="iconBio" target="blank" href="https://gitlab.com/cristuker" alt="Link to my gitlab">
+                <img src="icons/gitlab.svg" />
+                <p>Cristuker</p>
+            </a>
+            <a class="iconBio" target="blank" href="https://dev.to/cristuker" alt="Link to my Dev to">
+                <img class="devToIcon" src="icons/dev-brands.svg" />
+                <p>Cristuker</p>
+            </a>
+        </div>
+    </section>
+    <section id="skills" class="slide-top" alt="Section whit my habilities">
+        <h2 class="name" id="skillTitle">HABILIDADES</h2>
+        <div style="margin-top: 50px;" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active ">
+                    <img class="d-block w-33 skill" src="images/skills/nodejs.webp" alt="Node JS">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/docker.png" alt="Docker">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/javascript.png" alt="JavaScript">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/react-icon.png" alt="ReactJS">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/typescript.png" alt="TypeScript">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/java-icon.png" alt="Java">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/Angular.png" alt="AngularJS">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/jest.png" alt="Jest">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/logo-nestjs.svg" alt="NestJS">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/postgres-logo.png" alt="Postgres SQL">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-33 skill" src="images/skills/ionic-logo.png" alt="Ionic">
+                </div>
+                <a
+                    class="carousel-control-prev"
+                    href="#carouselExampleControls"
+                    role="button"
+                    data-slide="prev"
+                >
+                    <span
+                        class="carousel-control-prev-icon"
+                        aria-hidden="true"
+                    ></span>
+                    <span class="sr-only">Anterior</span>
+                </a>
+                <a
+                    class="carousel-control-next"
+                    href="#carouselExampleControls"
+                    role="button"
+                    data-slide="next"
+                >
+                    <span
+                        class="carousel-control-next-icon"
+                        aria-hidden="true"
+                    ></span>
+                    <span class="sr-only">Próximo</span>
+                </a>
+            </div>
+
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
+        </div>
+
+    </section>
+    <section id="projects" class="slide-top" alt="section whit my project">
+        <h2 class="name" id="projectTitle">PROJETOS</h2>
+        <div id="allProjects">
+        </div>
+    </section>
+
+    <script src="js/index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+          AOS.init();
+        </script>
+</body>
+
+</html>
