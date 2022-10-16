@@ -108,6 +108,7 @@
 	     <td align="center"><a href="https://kritsss.github.io/Profile-Card/"><img src="https://drive.google.com/file/d/1w3Ku0KnTpFEyPOLBggaFC37MviV6Ycwk/view?usp=sharing" width="100px;" alt="Kritika Sukhramani"/><br /><sub><b>Kritika Sukhramani</b></sub></a><br /></td>
 	     <td align="center"><a href="https://geeky-hypertext629.github.io/Profile-Card/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHMwzgj4hP42A/profile-displayphoto-shrink_800_800/0/1647196635841?e=1671062400&v=beta&t=HzAJhu3z2LuoVZIxxBJsxvFm_O4L6RTxiLXS6YYAY3o" width="100px;" alt="Subham Chandra"/><br /><sub><b>Subham Chandra</b></sub></a><br /></td>
      <td align="center"><a href=" https://tanya25-05.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/76803870?s=96&v=4" width="100px;" alt="Tanya Verma"/><br /><sub><b>Tanya Verma</b></sub></a><br /></td>
+     <td align="center"><a href="https://prakarshsingh5.github.io/profilecard1/"><img src="https://avatars.githubusercontent.com/u/108565574?s=400&u=60699c4973527832ca31800e910d3838184b9bf0&v=4" width="100px;" alt="Prakarsh Singh"/><br /><sub><b>Prakarsh Singh</b></sub></a><br /></td>
      </tr>
      
   </tbody>
