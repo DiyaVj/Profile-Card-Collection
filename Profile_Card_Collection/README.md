@@ -95,20 +95,22 @@
     <tr>
       <td align="center"><a href="https://shivang1919.github.io/css_card/"><img src="https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png" width="100px;" alt="Shivang Sharma"/><br /><sub><b>Shivang Sharma</b></sub></a><br /></td>
       <td align="center"><a href="https://ankit62042.github.io/Profile_Card/"><img src="https://pbs.twimg.com/profile_images/1560831529915322368/9esMlEaj_400x400.jpg" width="100px;" alt="Ankit Kumar"/><br /><sub><b>Ankit Kumar</b></sub></a><br /></td>
+      <td align="center"><a href="https://shivendramaurya6.github.io/profile-card-1/"><img src="https://avatars.githubusercontent.com/u/102447747?v=4dth="100px;" alt="Shivendra Maurya"/><br /><sub><b>Shivendra Maurya</b></sub></a><br /></td>
       <td align="center"><a href="https://richesh27.github.io/My-Profile-card/"><img src="https://richesh27.github.io/My-Profile-card/accessories/mine.jpg" width="100px;" alt="Richesh Kunwar"/><br /><sub><b>Richesh Kunwar</b></sub></a><br /></td>
       <td align="center"><a href="https://linktr.ee/pranjalkumar"><img src="https://avatars.githubusercontent.com/u/71400605?v=4" width="100px;" alt="Pranjal Kumar"/><br /><sub><b>Pranjal Kumar</b></sub></a><br /></td>
      <td align="center"><a href="https://mysteryhawk17.github.io/ProfileCardUI/"><img src="https://media-exp1.licdn.com/dms/image/D5603AQF5RJenGHExag/profile-displayphoto-shrink_400_400/0/1665388552482?e=1671062400&v=beta&t=oaQBCItuB8Ry6BpvdV4R8-GRW4eiYhKc3pkmjK_J3Jg" width="100px;" alt="Yash Raj"/><br /><sub><b>Yash Raj</b></sub></a><br /></td>
      <td align="center"><a href="https://sks8784.github.io/CSS-Card/"><img src="https://cdn.iconscout.com/icon/free/png-512/avatar-370-456322.png" width="100px;" alt="sinha"/><br /><sub><b>Shubham Kumar Sinha</b></sub></a><br /></td>
 	   <td align="center"><a href="https://vishalpattnaik.github.io/profile-card/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Awesome-Photo.jpg" width="100px;" alt="Vishal P"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
-     <td align="center"><a href="https://giardim.github.io/ProfileCard/"><img src="https://i.stack.imgur.com/frlIf.png" width="100px;" alt="Michael G"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
      </tr>
      <tr>
      <td align="center"><a href="https://cristuker.github.io/"><img src="https://cristuker.github.io/images/Profile.jpeg" width="100px;" alt="Cristian Silva"/><br /><sub><b>Cristian Silva </b></sub></a><br /></td>
      <td align="center"><a href="https://divyanshu-jhaa.github.io/Profile_card/"><img src="https://divyanshu-jhaa.github.io/Profile_card/assests/img.jpg" width="100px;" alt="Divyanshu Jha"/><br /><sub><b>Divyanshu Jha</b></sub></a><br /></td>
-	     <td align="center"><a href="https://kritsss.github.io/Profile-Card/"><img src="https://drive.google.com/file/d/1w3Ku0KnTpFEyPOLBggaFC37MviV6Ycwk/view?usp=sharing" width="100px;" alt="Kritika Sukhramani"/><br /><sub><b>Kritika Sukhramani</b></sub></a><br /></td>
-	     <td align="center"><a href="https://geeky-hypertext629.github.io/Profile-Card/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHMwzgj4hP42A/profile-displayphoto-shrink_800_800/0/1647196635841?e=1671062400&v=beta&t=HzAJhu3z2LuoVZIxxBJsxvFm_O4L6RTxiLXS6YYAY3o" width="100px;" alt="Subham Chandra"/><br /><sub><b>Subham Chandra</b></sub></a><br /></td>
+	   <td align="center"><a href="https://kritsss.github.io/Profile-Card/"><img src="https://drive.google.com/file/d/1w3Ku0KnTpFEyPOLBggaFC37MviV6Ycwk/view?usp=sharing" width="100px;" alt="Kritika Sukhramani"/><br /><sub><b>Kritika Sukhramani</b></sub></a><br /></td>
+	   <td align="center"><a href="https://geeky-hypertext629.github.io/Profile-Card/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHMwzgj4hP42A/profile-displayphoto-shrink_800_800/0/1647196635841?e=1671062400&v=beta&t=HzAJhu3z2LuoVZIxxBJsxvFm_O4L6RTxiLXS6YYAY3o" width="100px;" alt="Subham Chandra"/><br /><sub><b>Subham Chandra</b></sub></a><br /></td>
      <td align="center"><a href=" https://tanya25-05.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/76803870?s=96&v=4" width="100px;" alt="Tanya Verma"/><br /><sub><b>Tanya Verma</b></sub></a><br /></td>
      <td align="center"><a href="https://snazzy-baklava-4d5ab8.netlify.app"><img src="https://avatars.githubusercontent.com/u/76803870?s=96&v=4" width="100px;" alt="Pranjal Saxena"/><br /><sub><b>Pranjal Saxena</b></sub></a><br /></td>
+     <td align="center"><a href="https://prakarshsingh5.github.io/profilecard1/"><img src="https://avatars.githubusercontent.com/u/108565574?s=400&u=60699c4973527832ca31800e910d3838184b9bf0&v=4" width="100px;" alt="Prakarsh Singh"/><br /><sub><b>Prakarsh Singh</b></sub></a><br /></td>
+     <td align="center"><a href="https://giardim.github.io/ProfileCard/"><img src="https://i.stack.imgur.com/frlIf.png" width="100px;" alt="Michael G"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
      </tr>
      
   </tbody>
