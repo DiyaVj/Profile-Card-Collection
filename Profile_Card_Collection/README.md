@@ -111,6 +111,7 @@
      <td align="center"><a href="https://snazzy-baklava-4d5ab8.netlify.app"><img src="https://avatars.githubusercontent.com/u/76803870?s=96&v=4" width="100px;" alt="Pranjal Saxena"/><br /><sub><b>Pranjal Saxena</b></sub></a><br /></td>
      <td align="center"><a href="https://prakarshsingh5.github.io/profilecard1/"><img src="https://avatars.githubusercontent.com/u/108565574?s=400&u=60699c4973527832ca31800e910d3838184b9bf0&v=4" width="100px;" alt="Prakarsh Singh"/><br /><sub><b>Prakarsh Singh</b></sub></a><br /></td>
      <td align="center"><a href="https://giardim.github.io/ProfileCard/"><img src="https://i.stack.imgur.com/frlIf.png" width="100px;" alt="Michael G"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
+     <td align="center"><a href="https://sohail60.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/93881214?v=4" width="100px;" alt="Md Sohail Ansari"/><br /><sub><b>Md Sohail Ansari</b></sub></a><br /></td>
      </tr>
      
   </tbody>
