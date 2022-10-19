@@ -113,9 +113,8 @@
      <td align="center"><a href="https://giardim.github.io/ProfileCard/"><img src="https://i.stack.imgur.com/frlIf.png" width="100px;" alt="Michael G"/><br /><sub><b>Vishal P</b></sub></a><br /></td>
      </tr>
      <tr>
-     <td align = "center"><a href="https://634db4fefc207a26f516e9eb--adorable-meerkat-5f8874.netlify.app/"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLfLJBbc_7qYD5hFcG4SsYG6BMydK9kFzgf33d9vrd-KbnV_5JU0KJxQuA4cUYwseGmc&usqp=CAU" width="100px"><br /><sub>Harsh Pathak</b></sub></a><br /><td>
+     <td align = "center"><a href="https://634db4fefc207a26f516e9eb--adorable-meerkat-5f8874.netlify.app/"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLfLJBbc_7qYD5hFcG4SsYG6BMydK9kFzgf33d9vrd-KbnV_5JU0KJxQuA4cUYwseGmc&usqp=CAU" width="100px"><sub>Harsh Pathak<br /><td>
      <td align="center"><a href="https://sohail60.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/93881214?v=4" width="100px;" alt="Md Sohail Ansari"/><br /><sub><b>Md Sohail Ansari</b></sub></a><br /></td>
- 
      </tr>
  
   </tbody>
