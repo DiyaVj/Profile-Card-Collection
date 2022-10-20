@@ -2,9 +2,6 @@
 
 <table>
   <tbody>
-    <tr>
-      <td align="center"><a href="https://swadeshit27.github.io/Profile_Card/"><img src="https://swadeshit27.github.io/Profile_Card/my%20photo.jpg" width="100px;" alt="Swadesh Pal"/><br /><sub><b>Swadesh Pal</b></sub></a><br /></td>
-      </tr>
       <tr>
       <td align="center"><a href="https://www.kevincao.xyz/profile-card/"><img src="https://avatars.githubusercontent.com/u/106453563?v=4" width="100px;" alt="Kevin Cao"/><br /><sub><b>Kevin Cao</b></sub></a><br /></td>
       <td align="center"><a href="https://jasminepvo.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/99847030?v=4" width="100px;" alt="Jasmine Vo"/><br /><sub><b>Jasmine Vo</b></sub></a><br /></td>
@@ -64,7 +61,6 @@
 	  <td align="center"><a href="https://kushaljgec2025.github.io/Profile_Card/"><img src="https://github.com/kushaljgec2025/Profile_Card/blob/main/dp%20img.jpg" width="100px;" alt="Kushal Ghosh"/><br /><sub><b>Kushal Ghosh</b></sub></a><br /></td>
     <td align="center"><a href="https://utsavrai1.github.io/Utsav-rai-Profile-Card/"><img src="https://avatars.githubusercontent.com/u/96744747?v=4" width="100px;" alt="Utsav Rai"/><br /><sub><b>Utsav Rai</b></sub></a><br /></td>
     <td align="center"><a href="https://amananand917.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/79956798?v=4" width="100px;" alt="Aman Anand"/><br /><sub><b>Aman Anand</b></sub></a><br /></td>
-    <td align="center"><a href="https://mhmmdrzld.dev/"><img src="https://avatars.githubusercontent.com/u/79956798?v=4" width="100px;" alt="Muhammad Rizaldi"/><br /><sub><b>Muhammad Rizaldi</b></sub></a><br /></td>
     </tr>
     <tr>
      <td align="center"><a href="https://ayushi-ras.github.io/Profile-Card/"><img src="https://ayushi-ras.github.io/Profile-Card/images/ayu.jpg" width="100px;" alt="Ayushi Rastogi"/><br /><sub><b>Ayushi Rastogi</b></sub></a><br /></td>
@@ -119,7 +115,10 @@
      <tr>
      <td align = "center"><a href="https://634db4fefc207a26f516e9eb--adorable-meerkat-5f8874.netlify.app/"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLfLJBbc_7qYD5hFcG4SsYG6BMydK9kFzgf33d9vrd-KbnV_5JU0KJxQuA4cUYwseGmc&usqp=CAU" width="100px"><sub>Harsh Pathak<br /><td>
      <td align="center"><a href="https://sohail60.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/93881214?v=4" width="100px;" alt="Md Sohail Ansari"/><br /><sub><b>Md Sohail Ansari</b></sub></a><br /></td>
-     </tr>
+         <td align="center"><a href="https://mhmmdrzld.dev/"><img src="https://avatars.githubusercontent.com/u/79956798?v=4" width="100px;" alt="Muhammad Rizaldi"/><br /><sub><b>Muhammad Rizaldi</b></sub></a><br /></td>
+      <td align="center"><a href="https://swadeshit27.github.io/Profile_Card/"><img src="https://swadeshit27.github.io/Profile_Card/my%20photo.jpg" width="100px;" alt="Swadesh Pal"/><br /><sub><b>Swadesh Pal</b></sub></a><br /></td>
+      </tr>
+  
  
   </tbody>
 </table>
