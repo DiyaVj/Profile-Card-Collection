@@ -3,6 +3,9 @@
 <table>
   <tbody>
     <tr>
+      <td align="center"><a href="https://swadeshit27.github.io/Profile_Card/"><img src="https://swadeshit27.github.io/Profile_Card/my%20photo.jpg" width="100px;" alt="Swadesh Pal"/><br /><sub><b>Swadesh Pal</b></sub></a><br /></td>
+      </tr>
+      <tr>
       <td align="center"><a href="https://www.kevincao.xyz/profile-card/"><img src="https://avatars.githubusercontent.com/u/106453563?v=4" width="100px;" alt="Kevin Cao"/><br /><sub><b>Kevin Cao</b></sub></a><br /></td>
       <td align="center"><a href="https://jasminepvo.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/99847030?v=4" width="100px;" alt="Jasmine Vo"/><br /><sub><b>Jasmine Vo</b></sub></a><br /></td>
       <td align="center"><a href="https://amanagr6697.github.io/"><img src="https://user-images.githubusercontent.com/95862904/194939621-1466ba7b-820e-4b6f-98c7-56ade1d68698.jpg" width="100px;" alt="Aman Agrawal"/><br /><sub><b>Aman Agrawal</b></sub></a><br /></td>
