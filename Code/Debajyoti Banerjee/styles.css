@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #e3b9a7;
+	font-family: Montserrat, sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.card {
+	background-color: #5b0d2e;
+	border-radius: 10px;
+	box-shadow: 2px 4px 5px black;
+	color: white;
+	padding-top: 30px;
+	text-shadow: 1px 1px 2px black;
+	width: 300px;
+	max-width: 100%;
+	text-align: center;
+}
+
+.card img{
+    max-width: 150px;
+}
+
+.card .round {
+	border: 1px solid #ffffff;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+h3 {
+	margin: 10px 0;
+}
+
+h6 {
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.skills {
+	text-align: left;
+	padding: 15px;
+	margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.skills a{
+    text-decoration: none;
+    color: white;
+}
+.links{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.skills img {
+    max-width: 40px;
+}
+.linkedin img{
+	width: 50px;
+}
+
