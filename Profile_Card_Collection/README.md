@@ -120,6 +120,7 @@
       <td align="center"><a href="https://pratham2301.github.io/My-Profile-Card-Template/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Picture-986x1024.jpg" width="100px;" alt="Pratham Rajbhoj"/><br /><sub><b>Pratham Rajbhoj</b></sub></a><br/></td></tr>
       
        <td align="center"><a href="https://debajyotibanerjee22.github.io/profileCard/"><img src="https://pbs.twimg.com/profile_images/1583493054195171328/lOG3jGx9_400x400.jpg" width="100px;" alt="Debajyoti Banerjee"/><br /><sub><b>Debajyoti Banerjee</b></sub></a><br/></td></tr>
+       <td align="center"><a href="https://sm9416220.github.io/Profile-Card/"><img src="https://sm9416220.github.io/Profile-Card/image.jpg" width="100px;" alt="Mohd Suhail"/><br /><sub><b>Mohd Suhail</b></sub></a><br/></td></tr>
  
  
   </tbody>
