@@ -123,7 +123,5 @@
        <td align="center"><a href="https://pradnyahaval.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/56785606?s=400&u=3ba1a3a03cc7153e5d64b1e6dc36be8164c56f79&v=4" width="100px;" alt="Pradnya Haval"/><br /><sub><b>Pradnya Haval</b></sub></a><br/></td>  
      </tr> 
  
- 
- 
   </tbody>
 </table>
