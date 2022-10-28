@@ -119,7 +119,8 @@
          <td align="center"><a href="https://mhmmdrzld.dev/"><img src="https://avatars.githubusercontent.com/u/79956798?v=4" width="100px;" alt="Muhammad Rizaldi"/><br /><sub><b>Muhammad Rizaldi</b></sub></a><br /></td>
       <td align="center"><a href="https://swadeshit27.github.io/Profile_Card/"><img src="https://swadeshit27.github.io/Profile_Card/my%20photo.jpg" width="100px;" alt="Swadesh Pal"/><br /><sub><b>Swadesh Pal</b></sub></a><br /></td>
       <td align="center"><a href="https://pratham2301.github.io/My-Profile-Card-Template/"><img src="https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Picture-986x1024.jpg" width="100px;" alt="Pratham Rajbhoj"/><br /><sub><b>Pratham Rajbhoj</b></sub></a><br/></td>      
-       <td align="center"><a href="https://debajyotibanerjee22.github.io/profileCard/"><img src="https://pbs.twimg.com/profile_images/1583493054195171328/lOG3jGx9_400x400.jpg" width="100px;" alt="Debajyoti Banerjee"/><br /><sub><b>Debajyoti Banerjee</b></sub></a><br/></td>   
+       <td align="center"><a href="https://debajyotibanerjee22.github.io/profileCard/"><img src="https://pbs.twimg.com/profile_images/1583493054195171328/lOG3jGx9_400x400.jpg" width="100px;" alt="Debajyoti Banerjee"/><br /><sub><b>Debajyoti Banerjee</b></sub></a><br/></td>  
+       <td align="center"><a href="https://pradnyahaval.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/56785606?s=400&u=3ba1a3a03cc7153e5d64b1e6dc36be8164c56f79&v=4" width="100px;" alt="Pradnya Haval"/><br /><sub><b>Pradnya Haval</b></sub></a><br/></td>  
      </tr> 
  
   </tbody>
