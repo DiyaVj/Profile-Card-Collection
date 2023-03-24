@@ -5,6 +5,7 @@
       <tr>
       <td align="center"><a href="https://www.kevincao.xyz/profile-card/"><img src="https://avatars.githubusercontent.com/u/106453563?v=4" width="100px;" alt="Kevin Cao"/><br /><sub><b>Kevin Cao</b></sub></a><br /></td>
       <td align="center"><a href="https://jasminepvo.github.io/Profile-Card/"><img src="https://avatars.githubusercontent.com/u/99847030?v=4" width="100px;" alt="Jasmine Vo"/><br /><sub><b>Jasmine Vo</b></sub></a><br /></td>
+      <td align="center"><a href="https://nancykasaudhan20.github.io/Profile-Card/"><img src="me.png" width="100px;" alt="Nancy kasaudhan"/><br /><sub><b>Nancy Kasaudhan</b></sub></a><br /></td>
       <td align="center"><a href="https://amanagr6697.github.io/"><img src="https://user-images.githubusercontent.com/95862904/194939621-1466ba7b-820e-4b6f-98c7-56ade1d68698.jpg" width="100px;" alt="Aman Agrawal"/><br /><sub><b>Aman Agrawal</b></sub></a><br /></td>
       <td align="center"><a href="https://devansh-1007.github.io/pcard/"><img src="https://devansh-1007.github.io/pcard/2-kakashi-hatake.jpg" width="100px;" alt="Devansh Choudhary"/><br /><sub><b>Devansh Choudhary</b></sub></a><br /></td>
       <td align="center"><a href="https://wojciechszade.github.io/Profile-card/"><img src="https://avatars.githubusercontent.com/u/96198418?v=4" width="100px;" alt="Wojciech Szade"/><br /><sub><b>Wojciech Szade</b></sub></a><br /></td>
