@@ -125,6 +125,7 @@
      </tr>
      <tr>
      <td align="center"><a href="https://jade-pika-750a76.netlify.app/"><img src="https://avatars.githubusercontent.com/u/95268567?v=4" width="100px;" alt="Deeraj Rajesh"/><br /><sub><b>Deeraj Rajesh</b></sub></a><br/></td>
+	<td align="center"><a href="https://profile-card-collection.vercel.app/"><img src="https://avatars.githubusercontent.com/u/97797412?v=4" width="100px;" alt="Salil Mehan"/><br /><sub><b>Salil Mehan</b></sub></a><br/></td>
      </tr>
  
   </tbody>
